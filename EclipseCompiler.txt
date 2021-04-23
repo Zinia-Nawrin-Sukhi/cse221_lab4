@@ -1,0 +1,1630 @@
+29 Oct 2019 22:25:24 GMT: Log 'EclipseCompiler.txt' opened: 29 Oct 2019 22:25:24 GMT with name E:\cse221\lab\lab4\EclipseCompiler.txt
+10 Nov 2019 5:46:27 GMT: Log 'EclipseCompiler.txt' opened: 10 Nov 2019 5:46:27 GMT with name E:\cse221\lab\lab4\EclipseCompiler.txt
+10 Nov 2019 7:25:10 GMT: diagnostics = javax.tools.DiagnosticCollector@194c189
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@146e167
+fileObjects = [E:\cse221\lab\lab1\CreateGraph.java, E:\cse221\lab\18101049_Md Imdadul Haque_Lab06\lab06\src\lab06\Lab06.java, E:\cse221\lab\lab4\PrimMst.java]
+10 Nov 2019 7:25:10 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1d581d0' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab1;E:\cse221\lab\18101049_Md Imdadul Haque_Lab06\lab06\src;E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+10 Nov 2019 7:25:11 GMT: Compiler call returned
+10 Nov 2019 7:25:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c627bd
+10 Nov 2019 7:25:11 GMT:  Kind = ERROR
+10 Nov 2019 7:25:11 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 47 ColNo = 1 Msg = 'Syntax error on token "}", delete this token'
+10 Nov 2019 7:25:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1db1cae
+10 Nov 2019 7:25:11 GMT:  Kind = ERROR
+10 Nov 2019 7:25:11 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 91 ColNo = 1 Msg = 'Syntax error, insert "}" to complete ClassBody'
+10 Nov 2019 7:25:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@253727
+10 Nov 2019 7:25:11 GMT:  Kind = WARNING
+10 Nov 2019 7:25:11 GMT: Name = E:\cse221\lab\lab1\CreateGraph.java LineNo = 36 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+10 Nov 2019 7:25:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@124fad9
+10 Nov 2019 7:25:11 GMT:  Kind = ERROR
+10 Nov 2019 7:25:11 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 69 ColNo = 22 Msg = 'Syntax error, insert ";" to complete Statement'
+10 Nov 2019 7:25:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@11698a6
+10 Nov 2019 7:25:11 GMT:  Kind = WARNING
+10 Nov 2019 7:25:11 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 2 ColNo = 8 Msg = 'The import java.lang is never used'
+10 Nov 2019 7:25:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@fcf46
+10 Nov 2019 7:25:11 GMT:  Kind = WARNING
+10 Nov 2019 7:25:11 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 36 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+10 Nov 2019 8:31:34 GMT: Log 'EclipseCompiler.txt' opened: 10 Nov 2019 8:31:34 GMT with name E:\cse221\lab\lab4\EclipseCompiler.txt
+10 Nov 2019 8:50:47 GMT: diagnostics = javax.tools.DiagnosticCollector@166a8a5
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1c3c786
+fileObjects = [E:\cse221\lab\lab4\PrimMst.java]
+10 Nov 2019 8:50:47 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@af289c' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+10 Nov 2019 8:50:47 GMT: Compiler call returned
+10 Nov 2019 8:50:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f3c07e
+10 Nov 2019 8:50:47 GMT:  Kind = ERROR
+10 Nov 2019 8:50:47 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 47 ColNo = 1 Msg = 'Syntax error on token "}", delete this token'
+10 Nov 2019 8:50:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e6993
+10 Nov 2019 8:50:47 GMT:  Kind = ERROR
+10 Nov 2019 8:50:47 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 101 ColNo = 1 Msg = 'Syntax error, insert "}" to complete ClassBody'
+10 Nov 2019 8:50:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@101a25e
+10 Nov 2019 8:50:47 GMT:  Kind = ERROR
+10 Nov 2019 8:50:47 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 64 ColNo = 13 Msg = 'Syntax error, insert "}" to complete MethodBody'
+10 Nov 2019 8:50:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@16e9b8c
+10 Nov 2019 8:50:47 GMT:  Kind = ERROR
+10 Nov 2019 8:50:47 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 79 ColNo = 22 Msg = 'Syntax error, insert ";" to complete Statement'
+10 Nov 2019 8:50:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1cdc1f6
+10 Nov 2019 8:50:47 GMT:  Kind = WARNING
+10 Nov 2019 8:50:47 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 2 ColNo = 8 Msg = 'The import java.lang is never used'
+10 Nov 2019 8:50:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@307bad
+10 Nov 2019 8:50:47 GMT:  Kind = WARNING
+10 Nov 2019 8:50:47 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 36 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+10 Nov 2019 8:51:00 GMT: diagnostics = javax.tools.DiagnosticCollector@429d7e
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1244d9
+fileObjects = [E:\cse221\lab\lab4\PrimMst.java]
+10 Nov 2019 8:51:00 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@af21bf' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+10 Nov 2019 8:51:00 GMT: Compiler call returned
+10 Nov 2019 8:51:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@14bbbb
+10 Nov 2019 8:51:00 GMT:  Kind = ERROR
+10 Nov 2019 8:51:00 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 101 ColNo = 1 Msg = 'Syntax error, insert "}" to complete ClassBody'
+10 Nov 2019 8:51:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b22fa7
+10 Nov 2019 8:51:00 GMT:  Kind = ERROR
+10 Nov 2019 8:51:00 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 64 ColNo = 13 Msg = 'Syntax error, insert "}" to complete MethodBody'
+10 Nov 2019 8:51:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@57bba0
+10 Nov 2019 8:51:00 GMT:  Kind = ERROR
+10 Nov 2019 8:51:00 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 79 ColNo = 22 Msg = 'Syntax error, insert ";" to complete Statement'
+10 Nov 2019 8:51:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@116953a
+10 Nov 2019 8:51:00 GMT:  Kind = WARNING
+10 Nov 2019 8:51:00 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 2 ColNo = 8 Msg = 'The import java.lang is never used'
+10 Nov 2019 8:51:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c2e00
+10 Nov 2019 8:51:00 GMT:  Kind = WARNING
+10 Nov 2019 8:51:00 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 36 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+10 Nov 2019 8:51:42 GMT: diagnostics = javax.tools.DiagnosticCollector@9d15fd
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1e187b5
+fileObjects = [E:\cse221\lab\lab4\PrimMst.java]
+10 Nov 2019 8:51:42 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@305cd' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+10 Nov 2019 8:51:42 GMT: Compiler call returned
+10 Nov 2019 8:51:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@151bc30
+10 Nov 2019 8:51:42 GMT:  Kind = ERROR
+10 Nov 2019 8:51:42 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 102 ColNo = 1 Msg = 'Syntax error, insert "}" to complete ClassBody'
+10 Nov 2019 8:51:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f0c3f3
+10 Nov 2019 8:51:42 GMT:  Kind = ERROR
+10 Nov 2019 8:51:42 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 63 ColNo = 14 Msg = 'Syntax error, insert "}" to complete Block'
+10 Nov 2019 8:51:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@143768b
+10 Nov 2019 8:51:42 GMT:  Kind = ERROR
+10 Nov 2019 8:51:42 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 80 ColNo = 22 Msg = 'Syntax error, insert ";" to complete Statement'
+10 Nov 2019 8:51:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c3aaa3
+10 Nov 2019 8:51:42 GMT:  Kind = WARNING
+10 Nov 2019 8:51:42 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 2 ColNo = 8 Msg = 'The import java.lang is never used'
+10 Nov 2019 8:51:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@19b3ad7
+10 Nov 2019 8:51:42 GMT:  Kind = WARNING
+10 Nov 2019 8:51:42 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 36 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+10 Nov 2019 13:14:51 GMT: Log 'EclipseCompiler.txt' opened: 10 Nov 2019 13:14:51 GMT with name E:\cse221\lab\lab4\EclipseCompiler.txt
+10 Nov 2019 15:42:36 GMT: diagnostics = javax.tools.DiagnosticCollector@8c23e7
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@8bcfaf
+fileObjects = [E:\cse221\lab\18101049_Md Imdadul Haque_Lab06\lab06\src\lab06\Lab06.java, E:\cse221\CSE221 LAB\CSE221 LAB\LAB5\LAB5_18101460_Tasnia_Rahman_Sec08\Prim.java, E:\cse221\lab\lab4\PrimMst.java]
+10 Nov 2019 15:42:36 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@3bcc34' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\18101049_Md Imdadul Haque_Lab06\lab06\src;E:\cse221\CSE221 LAB\CSE221 LAB\LAB5\LAB5_18101460_Tasnia_Rahman_Sec08;E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+10 Nov 2019 15:42:38 GMT: Compiler call returned
+10 Nov 2019 15:42:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@be2557
+10 Nov 2019 15:42:38 GMT:  Kind = ERROR
+10 Nov 2019 15:42:38 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 117 ColNo = 1 Msg = 'Syntax error on token "}", delete this token'
+10 Nov 2019 15:42:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f945c
+10 Nov 2019 15:42:38 GMT:  Kind = ERROR
+10 Nov 2019 15:42:38 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 58 ColNo = 14 Msg = 'Syntax error on token ",", delete this token'
+10 Nov 2019 15:42:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c89095
+10 Nov 2019 15:42:38 GMT:  Kind = ERROR
+10 Nov 2019 15:42:38 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 58 ColNo = 22 Msg = 'Syntax error, insert "... VariableDeclaratorId" to complete FormalParameter'
+10 Nov 2019 15:42:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ff1fd9
+10 Nov 2019 15:42:38 GMT:  Kind = ERROR
+10 Nov 2019 15:42:38 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 58 ColNo = 24 Msg = 'Syntax error on token ")", { expected after this token'
+10 Nov 2019 15:42:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d4b1f3
+10 Nov 2019 15:42:38 GMT:  Kind = ERROR
+10 Nov 2019 15:42:38 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 59 ColNo = 49 Msg = 'Syntax error, insert "}" to complete MethodBody'
+10 Nov 2019 15:42:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@fd6701
+10 Nov 2019 15:42:38 GMT:  Kind = WARNING
+10 Nov 2019 15:42:38 GMT: Name = E:\cse221\CSE221 LAB\CSE221 LAB\LAB5\LAB5_18101460_Tasnia_Rahman_Sec08\Prim.java LineNo = 19 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+10 Nov 2019 15:42:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1de1ef3
+10 Nov 2019 15:42:38 GMT:  Kind = ERROR
+10 Nov 2019 15:42:38 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 94 ColNo = 22 Msg = 'Syntax error, insert ";" to complete Statement'
+10 Nov 2019 15:42:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c0c846
+10 Nov 2019 15:42:38 GMT:  Kind = WARNING
+10 Nov 2019 15:42:38 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 2 ColNo = 8 Msg = 'The import java.lang is never used'
+10 Nov 2019 15:42:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c0b9c4
+10 Nov 2019 15:42:38 GMT:  Kind = ERROR
+10 Nov 2019 15:42:38 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 58 ColNo = 1 Msg = 'Return type for the method is missing'
+10 Nov 2019 15:42:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@841b92
+10 Nov 2019 15:42:38 GMT:  Kind = ERROR
+10 Nov 2019 15:42:38 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 26 ColNo = 7 Msg = 'color cannot be resolved to a variable'
+10 Nov 2019 15:42:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@158acf7
+10 Nov 2019 15:42:38 GMT:  Kind = ERROR
+10 Nov 2019 15:42:38 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 27 ColNo = 7 Msg = 'Duplicate local variable weight'
+10 Nov 2019 15:42:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c6d0e2
+10 Nov 2019 15:42:38 GMT:  Kind = ERROR
+10 Nov 2019 15:42:38 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 27 ColNo = 14 Msg = 'Type mismatch: cannot convert from int[] to int'
+10 Nov 2019 15:42:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@18c4287
+10 Nov 2019 15:42:38 GMT:  Kind = ERROR
+10 Nov 2019 15:42:38 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 28 ColNo = 7 Msg = 'Duplicate local variable key'
+10 Nov 2019 15:42:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1349c2f
+10 Nov 2019 15:42:38 GMT:  Kind = ERROR
+10 Nov 2019 15:42:38 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 28 ColNo = 11 Msg = 'Type mismatch: cannot convert from int[] to int'
+10 Nov 2019 15:42:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1fba66a
+10 Nov 2019 15:42:38 GMT:  Kind = ERROR
+10 Nov 2019 15:42:38 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 29 ColNo = 7 Msg = 'Duplicate local variable parents'
+10 Nov 2019 15:42:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a528f7
+10 Nov 2019 15:42:38 GMT:  Kind = ERROR
+10 Nov 2019 15:42:38 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 29 ColNo = 15 Msg = 'Type mismatch: cannot convert from int[] to int'
+10 Nov 2019 15:42:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@132c65e
+10 Nov 2019 15:42:38 GMT:  Kind = ERROR
+10 Nov 2019 15:42:38 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 33 ColNo = 25 Msg = 'Duplicate local variable st'
+10 Nov 2019 15:42:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@cefa33
+10 Nov 2019 15:42:38 GMT:  Kind = WARNING
+10 Nov 2019 15:42:38 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 47 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+10 Nov 2019 15:42:47 GMT: diagnostics = javax.tools.DiagnosticCollector@564d0d
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1e966cd
+fileObjects = [E:\cse221\lab\18101049_Md Imdadul Haque_Lab06\lab06\src\lab06\Lab06.java, E:\cse221\CSE221 LAB\CSE221 LAB\LAB5\LAB5_18101460_Tasnia_Rahman_Sec08\Prim.java, E:\cse221\lab\lab4\PrimMst.java]
+10 Nov 2019 15:42:47 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@a65d42' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\18101049_Md Imdadul Haque_Lab06\lab06\src;E:\cse221\CSE221 LAB\CSE221 LAB\LAB5\LAB5_18101460_Tasnia_Rahman_Sec08;E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+10 Nov 2019 15:42:47 GMT: Compiler call returned
+10 Nov 2019 15:42:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2223ba
+10 Nov 2019 15:42:47 GMT:  Kind = ERROR
+10 Nov 2019 15:42:47 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 117 ColNo = 1 Msg = 'Syntax error on token "}", delete this token'
+10 Nov 2019 15:42:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ce8122
+10 Nov 2019 15:42:47 GMT:  Kind = ERROR
+10 Nov 2019 15:42:47 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 58 ColNo = 14 Msg = 'Syntax error on token ",", delete this token'
+10 Nov 2019 15:42:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@15f89cf
+10 Nov 2019 15:42:47 GMT:  Kind = ERROR
+10 Nov 2019 15:42:47 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 58 ColNo = 22 Msg = 'Syntax error, insert "... VariableDeclaratorId" to complete FormalParameter'
+10 Nov 2019 15:42:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@739ccb
+10 Nov 2019 15:42:47 GMT:  Kind = ERROR
+10 Nov 2019 15:42:47 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 58 ColNo = 24 Msg = 'Syntax error on token ")", { expected after this token'
+10 Nov 2019 15:42:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@18f424c
+10 Nov 2019 15:42:47 GMT:  Kind = ERROR
+10 Nov 2019 15:42:47 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 59 ColNo = 49 Msg = 'Syntax error, insert "}" to complete MethodBody'
+10 Nov 2019 15:42:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1661e4e
+10 Nov 2019 15:42:47 GMT:  Kind = WARNING
+10 Nov 2019 15:42:47 GMT: Name = E:\cse221\CSE221 LAB\CSE221 LAB\LAB5\LAB5_18101460_Tasnia_Rahman_Sec08\Prim.java LineNo = 19 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+10 Nov 2019 15:42:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@9ef11c
+10 Nov 2019 15:42:47 GMT:  Kind = ERROR
+10 Nov 2019 15:42:47 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 94 ColNo = 22 Msg = 'Syntax error, insert ";" to complete Statement'
+10 Nov 2019 15:42:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b240
+10 Nov 2019 15:42:47 GMT:  Kind = WARNING
+10 Nov 2019 15:42:47 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 2 ColNo = 8 Msg = 'The import java.lang is never used'
+10 Nov 2019 15:42:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b31e2e
+10 Nov 2019 15:42:47 GMT:  Kind = ERROR
+10 Nov 2019 15:42:47 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 58 ColNo = 1 Msg = 'Return type for the method is missing'
+10 Nov 2019 15:42:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6cf2f8
+10 Nov 2019 15:42:47 GMT:  Kind = ERROR
+10 Nov 2019 15:42:47 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 27 ColNo = 7 Msg = 'Duplicate local variable weight'
+10 Nov 2019 15:42:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@11fea78
+10 Nov 2019 15:42:47 GMT:  Kind = ERROR
+10 Nov 2019 15:42:47 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 27 ColNo = 14 Msg = 'Type mismatch: cannot convert from int[] to int'
+10 Nov 2019 15:42:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@19d8a9
+10 Nov 2019 15:42:47 GMT:  Kind = ERROR
+10 Nov 2019 15:42:47 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 28 ColNo = 7 Msg = 'Duplicate local variable key'
+10 Nov 2019 15:42:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@174f56a
+10 Nov 2019 15:42:47 GMT:  Kind = ERROR
+10 Nov 2019 15:42:47 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 28 ColNo = 11 Msg = 'Type mismatch: cannot convert from int[] to int'
+10 Nov 2019 15:42:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1438ce
+10 Nov 2019 15:42:47 GMT:  Kind = ERROR
+10 Nov 2019 15:42:47 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 29 ColNo = 7 Msg = 'Duplicate local variable parents'
+10 Nov 2019 15:42:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3e499e
+10 Nov 2019 15:42:47 GMT:  Kind = ERROR
+10 Nov 2019 15:42:47 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 29 ColNo = 15 Msg = 'Type mismatch: cannot convert from int[] to int'
+10 Nov 2019 15:42:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@201e60
+10 Nov 2019 15:42:47 GMT:  Kind = ERROR
+10 Nov 2019 15:42:47 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 33 ColNo = 25 Msg = 'Duplicate local variable st'
+10 Nov 2019 15:42:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7b672b
+10 Nov 2019 15:42:47 GMT:  Kind = WARNING
+10 Nov 2019 15:42:47 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 47 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+10 Nov 2019 15:43:06 GMT: diagnostics = javax.tools.DiagnosticCollector@147cbf2
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@16db31e
+fileObjects = [E:\cse221\lab\18101049_Md Imdadul Haque_Lab06\lab06\src\lab06\Lab06.java, E:\cse221\CSE221 LAB\CSE221 LAB\LAB5\LAB5_18101460_Tasnia_Rahman_Sec08\Prim.java, E:\cse221\lab\lab4\PrimMst.java]
+10 Nov 2019 15:43:06 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@14df063' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\18101049_Md Imdadul Haque_Lab06\lab06\src;E:\cse221\CSE221 LAB\CSE221 LAB\LAB5\LAB5_18101460_Tasnia_Rahman_Sec08;E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+10 Nov 2019 15:43:06 GMT: Compiler call returned
+10 Nov 2019 15:43:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@42ce76
+10 Nov 2019 15:43:06 GMT:  Kind = ERROR
+10 Nov 2019 15:43:06 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 117 ColNo = 1 Msg = 'Syntax error on token "}", delete this token'
+10 Nov 2019 15:43:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c0a4fd
+10 Nov 2019 15:43:06 GMT:  Kind = ERROR
+10 Nov 2019 15:43:06 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 58 ColNo = 14 Msg = 'Syntax error on token ",", delete this token'
+10 Nov 2019 15:43:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f1f56a
+10 Nov 2019 15:43:06 GMT:  Kind = ERROR
+10 Nov 2019 15:43:06 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 58 ColNo = 22 Msg = 'Syntax error, insert "... VariableDeclaratorId" to complete FormalParameter'
+10 Nov 2019 15:43:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7e7194
+10 Nov 2019 15:43:06 GMT:  Kind = ERROR
+10 Nov 2019 15:43:06 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 58 ColNo = 24 Msg = 'Syntax error on token ")", { expected after this token'
+10 Nov 2019 15:43:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@992c13
+10 Nov 2019 15:43:06 GMT:  Kind = ERROR
+10 Nov 2019 15:43:06 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 59 ColNo = 49 Msg = 'Syntax error, insert "}" to complete MethodBody'
+10 Nov 2019 15:43:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1158ff1
+10 Nov 2019 15:43:06 GMT:  Kind = WARNING
+10 Nov 2019 15:43:06 GMT: Name = E:\cse221\CSE221 LAB\CSE221 LAB\LAB5\LAB5_18101460_Tasnia_Rahman_Sec08\Prim.java LineNo = 19 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+10 Nov 2019 15:43:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2751c
+10 Nov 2019 15:43:06 GMT:  Kind = ERROR
+10 Nov 2019 15:43:06 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 94 ColNo = 22 Msg = 'Syntax error, insert ";" to complete Statement'
+10 Nov 2019 15:43:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1975ad9
+10 Nov 2019 15:43:06 GMT:  Kind = WARNING
+10 Nov 2019 15:43:06 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 2 ColNo = 8 Msg = 'The import java.lang is never used'
+10 Nov 2019 15:43:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e5170c
+10 Nov 2019 15:43:06 GMT:  Kind = ERROR
+10 Nov 2019 15:43:06 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 58 ColNo = 1 Msg = 'Return type for the method is missing'
+10 Nov 2019 15:43:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@10a6be6
+10 Nov 2019 15:43:06 GMT:  Kind = ERROR
+10 Nov 2019 15:43:06 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 33 ColNo = 25 Msg = 'Duplicate local variable st'
+10 Nov 2019 15:43:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d755ce
+10 Nov 2019 15:43:06 GMT:  Kind = WARNING
+10 Nov 2019 15:43:06 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 47 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+10 Nov 2019 15:43:33 GMT: diagnostics = javax.tools.DiagnosticCollector@36496a
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@104bba2
+fileObjects = [E:\cse221\lab\18101049_Md Imdadul Haque_Lab06\lab06\src\lab06\Lab06.java, E:\cse221\CSE221 LAB\CSE221 LAB\LAB5\LAB5_18101460_Tasnia_Rahman_Sec08\Prim.java, E:\cse221\lab\lab4\PrimMst.java]
+10 Nov 2019 15:43:33 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@227c87' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\18101049_Md Imdadul Haque_Lab06\lab06\src;E:\cse221\CSE221 LAB\CSE221 LAB\LAB5\LAB5_18101460_Tasnia_Rahman_Sec08;E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+10 Nov 2019 15:43:33 GMT: Compiler call returned
+10 Nov 2019 15:43:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@136e3d
+10 Nov 2019 15:43:33 GMT:  Kind = ERROR
+10 Nov 2019 15:43:33 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 117 ColNo = 1 Msg = 'Syntax error on token "}", delete this token'
+10 Nov 2019 15:43:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@73e672
+10 Nov 2019 15:43:33 GMT:  Kind = ERROR
+10 Nov 2019 15:43:33 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 58 ColNo = 14 Msg = 'Syntax error on token ",", delete this token'
+10 Nov 2019 15:43:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7847c0
+10 Nov 2019 15:43:33 GMT:  Kind = ERROR
+10 Nov 2019 15:43:33 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 58 ColNo = 22 Msg = 'Syntax error, insert "... VariableDeclaratorId" to complete FormalParameter'
+10 Nov 2019 15:43:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f5e200
+10 Nov 2019 15:43:33 GMT:  Kind = ERROR
+10 Nov 2019 15:43:33 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 58 ColNo = 27 Msg = 'Syntax error on token ")", { expected after this token'
+10 Nov 2019 15:43:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1620225
+10 Nov 2019 15:43:33 GMT:  Kind = ERROR
+10 Nov 2019 15:43:33 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 59 ColNo = 49 Msg = 'Syntax error, insert "}" to complete MethodBody'
+10 Nov 2019 15:43:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2b2e0d
+10 Nov 2019 15:43:33 GMT:  Kind = WARNING
+10 Nov 2019 15:43:33 GMT: Name = E:\cse221\CSE221 LAB\CSE221 LAB\LAB5\LAB5_18101460_Tasnia_Rahman_Sec08\Prim.java LineNo = 19 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+10 Nov 2019 15:43:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@35348f
+10 Nov 2019 15:43:33 GMT:  Kind = ERROR
+10 Nov 2019 15:43:33 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 94 ColNo = 22 Msg = 'Syntax error, insert ";" to complete Statement'
+10 Nov 2019 15:43:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@15b236b
+10 Nov 2019 15:43:33 GMT:  Kind = WARNING
+10 Nov 2019 15:43:33 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 2 ColNo = 8 Msg = 'The import java.lang is never used'
+10 Nov 2019 15:43:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e97b0f
+10 Nov 2019 15:43:33 GMT:  Kind = ERROR
+10 Nov 2019 15:43:33 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 58 ColNo = 1 Msg = 'Return type for the method is missing'
+10 Nov 2019 15:43:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1337f19
+10 Nov 2019 15:43:33 GMT:  Kind = WARNING
+10 Nov 2019 15:43:33 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 47 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+10 Nov 2019 15:44:18 GMT: diagnostics = javax.tools.DiagnosticCollector@8231e9
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1973f1d
+fileObjects = [E:\cse221\lab\18101049_Md Imdadul Haque_Lab06\lab06\src\lab06\Lab06.java, E:\cse221\CSE221 LAB\CSE221 LAB\LAB5\LAB5_18101460_Tasnia_Rahman_Sec08\Prim.java, E:\cse221\lab\lab4\PrimMst.java]
+10 Nov 2019 15:44:18 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@6ed25a' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\18101049_Md Imdadul Haque_Lab06\lab06\src;E:\cse221\CSE221 LAB\CSE221 LAB\LAB5\LAB5_18101460_Tasnia_Rahman_Sec08;E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+10 Nov 2019 15:44:18 GMT: Compiler call returned
+10 Nov 2019 15:44:18 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@54df76
+10 Nov 2019 15:44:18 GMT:  Kind = ERROR
+10 Nov 2019 15:44:18 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 117 ColNo = 1 Msg = 'Syntax error on token "}", delete this token'
+10 Nov 2019 15:44:18 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@37ba91
+10 Nov 2019 15:44:18 GMT:  Kind = WARNING
+10 Nov 2019 15:44:18 GMT: Name = E:\cse221\CSE221 LAB\CSE221 LAB\LAB5\LAB5_18101460_Tasnia_Rahman_Sec08\Prim.java LineNo = 19 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+10 Nov 2019 15:44:18 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@19160d8
+10 Nov 2019 15:44:18 GMT:  Kind = ERROR
+10 Nov 2019 15:44:18 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 94 ColNo = 22 Msg = 'Syntax error, insert ";" to complete Statement'
+10 Nov 2019 15:44:18 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a0617d
+10 Nov 2019 15:44:18 GMT:  Kind = WARNING
+10 Nov 2019 15:44:18 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 2 ColNo = 8 Msg = 'The import java.lang is never used'
+10 Nov 2019 15:44:18 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a9b9b0
+10 Nov 2019 15:44:18 GMT:  Kind = WARNING
+10 Nov 2019 15:44:18 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 47 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+10 Nov 2019 15:52:41 GMT: diagnostics = javax.tools.DiagnosticCollector@14fdd43
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1579169
+fileObjects = [E:\cse221\lab\18101049_Md Imdadul Haque_Lab06\lab06\src\lab06\Lab06.java, E:\cse221\CSE221 LAB\CSE221 LAB\LAB5\LAB5_18101460_Tasnia_Rahman_Sec08\Prim.java, E:\cse221\lab\lab4\PrimMst.java]
+10 Nov 2019 15:52:41 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@7c5ebf' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\18101049_Md Imdadul Haque_Lab06\lab06\src;E:\cse221\CSE221 LAB\CSE221 LAB\LAB5\LAB5_18101460_Tasnia_Rahman_Sec08;E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+10 Nov 2019 15:52:41 GMT: Compiler call returned
+10 Nov 2019 15:52:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a34770
+10 Nov 2019 15:52:41 GMT:  Kind = WARNING
+10 Nov 2019 15:52:41 GMT: Name = E:\cse221\CSE221 LAB\CSE221 LAB\LAB5\LAB5_18101460_Tasnia_Rahman_Sec08\Prim.java LineNo = 19 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+10 Nov 2019 15:52:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@8b86a1
+10 Nov 2019 15:52:41 GMT:  Kind = WARNING
+10 Nov 2019 15:52:41 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 2 ColNo = 8 Msg = 'The import java.lang is never used'
+10 Nov 2019 15:52:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@140582d
+10 Nov 2019 15:52:41 GMT:  Kind = WARNING
+10 Nov 2019 15:52:41 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 47 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+10 Nov 2019 15:52:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b445eb
+10 Nov 2019 15:52:41 GMT:  Kind = ERROR
+10 Nov 2019 15:52:41 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 63 ColNo = 6 Msg = 'key cannot be resolved to a variable'
+10 Nov 2019 15:52:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4e034a
+10 Nov 2019 15:52:41 GMT:  Kind = ERROR
+10 Nov 2019 15:52:41 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 64 ColNo = 6 Msg = 'parents cannot be resolved to a variable'
+10 Nov 2019 15:52:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@60262c
+10 Nov 2019 15:52:41 GMT:  Kind = ERROR
+10 Nov 2019 15:52:41 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 67 ColNo = 5 Msg = 'key cannot be resolved to a variable'
+10 Nov 2019 15:52:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e0907d
+10 Nov 2019 15:52:41 GMT:  Kind = ERROR
+10 Nov 2019 15:52:41 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 76 ColNo = 13 Msg = 'empty cannot be resolved or is not a field'
+10 Nov 2019 15:52:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@11111f7
+10 Nov 2019 15:52:41 GMT:  Kind = ERROR
+10 Nov 2019 15:52:41 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 80 ColNo = 13 Msg = 'key cannot be resolved to a variable'
+10 Nov 2019 15:52:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@19f1ccc
+10 Nov 2019 15:52:41 GMT:  Kind = ERROR
+10 Nov 2019 15:52:41 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 80 ColNo = 20 Msg = 'key cannot be resolved to a variable'
+10 Nov 2019 15:52:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f51ad5
+10 Nov 2019 15:52:41 GMT:  Kind = ERROR
+10 Nov 2019 15:52:41 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 81 ColNo = 13 Msg = 'min_key cannot be resolved to a variable'
+10 Nov 2019 15:52:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a917ce
+10 Nov 2019 15:52:41 GMT:  Kind = ERROR
+10 Nov 2019 15:52:41 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 93 ColNo = 29 Msg = 'weight cannot be resolved to a variable'
+10 Nov 2019 15:52:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ee3165
+10 Nov 2019 15:52:41 GMT:  Kind = ERROR
+10 Nov 2019 15:52:41 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 93 ColNo = 36 Msg = 'min_key cannot be resolved to a variable'
+10 Nov 2019 15:52:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e43e08
+10 Nov 2019 15:52:41 GMT:  Kind = ERROR
+10 Nov 2019 15:52:41 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 93 ColNo = 45 Msg = 'weight cannot be resolved to a variable'
+10 Nov 2019 15:52:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1dfabd3
+10 Nov 2019 15:52:41 GMT:  Kind = ERROR
+10 Nov 2019 15:52:41 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 94 ColNo = 10 Msg = 'key cannot be resolved to a variable'
+10 Nov 2019 15:52:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@fdcc1
+10 Nov 2019 15:52:41 GMT:  Kind = ERROR
+10 Nov 2019 15:52:41 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 94 ColNo = 17 Msg = 'weight cannot be resolved to a variable'
+10 Nov 2019 15:52:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@14dbffc
+10 Nov 2019 15:52:41 GMT:  Kind = ERROR
+10 Nov 2019 15:52:41 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 95 ColNo = 10 Msg = 'parents cannot be resolved to a variable'
+10 Nov 2019 15:52:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@15dce23
+10 Nov 2019 15:52:41 GMT:  Kind = WARNING
+10 Nov 2019 15:52:41 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 7 ColNo = 7 Msg = 'The value of the local variable weight is not used'
+10 Nov 2019 15:52:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@11c67e8
+10 Nov 2019 15:52:41 GMT:  Kind = WARNING
+10 Nov 2019 15:52:41 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 8 ColNo = 7 Msg = 'The value of the local variable key is not used'
+10 Nov 2019 15:52:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17159de
+10 Nov 2019 15:52:41 GMT:  Kind = WARNING
+10 Nov 2019 15:52:41 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 9 ColNo = 7 Msg = 'The value of the local variable parents is not used'
+10 Nov 2019 15:52:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@173a7d3
+10 Nov 2019 15:52:41 GMT:  Kind = WARNING
+10 Nov 2019 15:52:41 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 10 ColNo = 7 Msg = 'The value of the local variable min_key is not used'
+10 Nov 2019 15:52:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@685888
+10 Nov 2019 15:52:41 GMT:  Kind = WARNING
+10 Nov 2019 15:52:41 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 11 ColNo = 7 Msg = 'The value of the local variable start is not used'
+10 Nov 2019 15:55:00 GMT: diagnostics = javax.tools.DiagnosticCollector@3868a4
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@e82434
+fileObjects = [E:\cse221\lab\18101049_Md Imdadul Haque_Lab06\lab06\src\lab06\Lab06.java, E:\cse221\CSE221 LAB\CSE221 LAB\LAB5\LAB5_18101460_Tasnia_Rahman_Sec08\Prim.java, E:\cse221\lab\lab4\PrimMst.java]
+10 Nov 2019 15:55:00 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@17c6d95' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\18101049_Md Imdadul Haque_Lab06\lab06\src;E:\cse221\CSE221 LAB\CSE221 LAB\LAB5\LAB5_18101460_Tasnia_Rahman_Sec08;E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+10 Nov 2019 15:55:00 GMT: Compiler call returned
+10 Nov 2019 15:55:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c95c79
+10 Nov 2019 15:55:00 GMT:  Kind = WARNING
+10 Nov 2019 15:55:00 GMT: Name = E:\cse221\CSE221 LAB\CSE221 LAB\LAB5\LAB5_18101460_Tasnia_Rahman_Sec08\Prim.java LineNo = 19 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+10 Nov 2019 15:55:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@14f32bf
+10 Nov 2019 15:55:00 GMT:  Kind = WARNING
+10 Nov 2019 15:55:00 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 2 ColNo = 8 Msg = 'The import java.lang is never used'
+10 Nov 2019 15:55:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@10f9e48
+10 Nov 2019 15:55:00 GMT:  Kind = WARNING
+10 Nov 2019 15:55:00 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 47 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+10 Nov 2019 15:55:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a46b94
+10 Nov 2019 15:55:00 GMT:  Kind = ERROR
+10 Nov 2019 15:55:00 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 63 ColNo = 6 Msg = 'key cannot be resolved to a variable'
+10 Nov 2019 15:55:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@14dcded
+10 Nov 2019 15:55:00 GMT:  Kind = ERROR
+10 Nov 2019 15:55:00 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 64 ColNo = 6 Msg = 'parents cannot be resolved to a variable'
+10 Nov 2019 15:55:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@11bdd71
+10 Nov 2019 15:55:00 GMT:  Kind = ERROR
+10 Nov 2019 15:55:00 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 67 ColNo = 5 Msg = 'key cannot be resolved to a variable'
+10 Nov 2019 15:55:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f3ef84
+10 Nov 2019 15:55:00 GMT:  Kind = ERROR
+10 Nov 2019 15:55:00 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 67 ColNo = 9 Msg = 'r cannot be resolved to a variable'
+10 Nov 2019 15:55:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1eccf05
+10 Nov 2019 15:55:00 GMT:  Kind = ERROR
+10 Nov 2019 15:55:00 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 76 ColNo = 13 Msg = 'empty cannot be resolved or is not a field'
+10 Nov 2019 15:55:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a74770
+10 Nov 2019 15:55:00 GMT:  Kind = ERROR
+10 Nov 2019 15:55:00 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 80 ColNo = 13 Msg = 'key cannot be resolved to a variable'
+10 Nov 2019 15:55:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@102e040
+10 Nov 2019 15:55:00 GMT:  Kind = ERROR
+10 Nov 2019 15:55:00 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 80 ColNo = 20 Msg = 'key cannot be resolved to a variable'
+10 Nov 2019 15:55:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@8ca8ab
+10 Nov 2019 15:55:00 GMT:  Kind = ERROR
+10 Nov 2019 15:55:00 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 81 ColNo = 13 Msg = 'min_key cannot be resolved to a variable'
+10 Nov 2019 15:55:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@107d3d8
+10 Nov 2019 15:55:00 GMT:  Kind = ERROR
+10 Nov 2019 15:55:00 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 93 ColNo = 36 Msg = 'min_key cannot be resolved to a variable'
+10 Nov 2019 15:55:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b1830f
+10 Nov 2019 15:55:00 GMT:  Kind = ERROR
+10 Nov 2019 15:55:00 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 93 ColNo = 29 Msg = 'The operator < is undefined for the argument type(s) int[], int[]'
+10 Nov 2019 15:55:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e36d99
+10 Nov 2019 15:55:00 GMT:  Kind = ERROR
+10 Nov 2019 15:55:00 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 94 ColNo = 10 Msg = 'key cannot be resolved to a variable'
+10 Nov 2019 15:55:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b50be
+10 Nov 2019 15:55:00 GMT:  Kind = ERROR
+10 Nov 2019 15:55:00 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 95 ColNo = 10 Msg = 'parents cannot be resolved to a variable'
+10 Nov 2019 15:55:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f7da34
+10 Nov 2019 15:55:00 GMT:  Kind = WARNING
+10 Nov 2019 15:55:00 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 7 ColNo = 7 Msg = 'The value of the local variable weight is not used'
+10 Nov 2019 15:55:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a3843e
+10 Nov 2019 15:55:00 GMT:  Kind = WARNING
+10 Nov 2019 15:55:00 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 8 ColNo = 7 Msg = 'The value of the local variable key is not used'
+10 Nov 2019 15:55:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@14bd56
+10 Nov 2019 15:55:00 GMT:  Kind = WARNING
+10 Nov 2019 15:55:00 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 9 ColNo = 7 Msg = 'The value of the local variable parents is not used'
+10 Nov 2019 15:55:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c2870a
+10 Nov 2019 15:55:00 GMT:  Kind = WARNING
+10 Nov 2019 15:55:00 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 10 ColNo = 7 Msg = 'The value of the local variable min_key is not used'
+10 Nov 2019 15:55:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13dc41c
+10 Nov 2019 15:55:00 GMT:  Kind = WARNING
+10 Nov 2019 15:55:00 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 11 ColNo = 7 Msg = 'The value of the local variable start is not used'
+10 Nov 2019 16:00:19 GMT: diagnostics = javax.tools.DiagnosticCollector@11f68a0
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@16c9e1d
+fileObjects = [E:\cse221\lab\18101049_Md Imdadul Haque_Lab06\lab06\src\lab06\Lab06.java, E:\cse221\CSE221 LAB\CSE221 LAB\LAB5\LAB5_18101460_Tasnia_Rahman_Sec08\Prim.java, E:\cse221\lab\lab4\PrimMst.java]
+10 Nov 2019 16:00:19 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1e66176' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\18101049_Md Imdadul Haque_Lab06\lab06\src;E:\cse221\CSE221 LAB\CSE221 LAB\LAB5\LAB5_18101460_Tasnia_Rahman_Sec08;E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+10 Nov 2019 16:00:20 GMT: Compiler call returned
+10 Nov 2019 16:00:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2ee3eb
+10 Nov 2019 16:00:20 GMT:  Kind = ERROR
+10 Nov 2019 16:00:20 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 55 ColNo = 3 Msg = 'Syntax error on token "}", { expected after this token'
+10 Nov 2019 16:00:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b76a99
+10 Nov 2019 16:00:20 GMT:  Kind = ERROR
+10 Nov 2019 16:00:20 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 60 ColNo = 22 Msg = 'Syntax error on token "(", ; expected'
+10 Nov 2019 16:00:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b8e023
+10 Nov 2019 16:00:20 GMT:  Kind = ERROR
+10 Nov 2019 16:00:20 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 60 ColNo = 36 Msg = 'Syntax error on token ",", ; expected'
+10 Nov 2019 16:00:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1fbb2d1
+10 Nov 2019 16:00:20 GMT:  Kind = ERROR
+10 Nov 2019 16:00:20 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 60 ColNo = 51 Msg = 'Syntax error on token ",", ; expected'
+10 Nov 2019 16:00:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d331be
+10 Nov 2019 16:00:20 GMT:  Kind = ERROR
+10 Nov 2019 16:00:20 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 60 ColNo = 61 Msg = 'Syntax error on token ")", ; expected'
+10 Nov 2019 16:00:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@18d7a9f
+10 Nov 2019 16:00:20 GMT:  Kind = ERROR
+10 Nov 2019 16:00:20 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 118 ColNo = 1 Msg = 'Syntax error, insert "}" to complete ClassBody'
+10 Nov 2019 16:00:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@526f5
+10 Nov 2019 16:00:20 GMT:  Kind = WARNING
+10 Nov 2019 16:00:20 GMT: Name = E:\cse221\CSE221 LAB\CSE221 LAB\LAB5\LAB5_18101460_Tasnia_Rahman_Sec08\Prim.java LineNo = 19 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+10 Nov 2019 16:00:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@fc6a9e
+10 Nov 2019 16:00:20 GMT:  Kind = WARNING
+10 Nov 2019 16:00:20 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 2 ColNo = 8 Msg = 'The import java.lang is never used'
+10 Nov 2019 16:00:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@16bfcfe
+10 Nov 2019 16:00:20 GMT:  Kind = WARNING
+10 Nov 2019 16:00:20 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 45 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+10 Nov 2019 16:00:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b437ce
+10 Nov 2019 16:00:20 GMT:  Kind = ERROR
+10 Nov 2019 16:00:20 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 63 ColNo = 6 Msg = 'key cannot be resolved to a variable'
+10 Nov 2019 16:00:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@738b43
+10 Nov 2019 16:00:20 GMT:  Kind = ERROR
+10 Nov 2019 16:00:20 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 64 ColNo = 6 Msg = 'parents cannot be resolved to a variable'
+10 Nov 2019 16:00:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@170a709
+10 Nov 2019 16:00:20 GMT:  Kind = ERROR
+10 Nov 2019 16:00:20 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 67 ColNo = 5 Msg = 'key cannot be resolved to a variable'
+10 Nov 2019 16:00:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1222cd5
+10 Nov 2019 16:00:20 GMT:  Kind = ERROR
+10 Nov 2019 16:00:20 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 67 ColNo = 9 Msg = 'r cannot be resolved to a variable'
+10 Nov 2019 16:00:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@18e71b8
+10 Nov 2019 16:00:20 GMT:  Kind = ERROR
+10 Nov 2019 16:00:20 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 76 ColNo = 13 Msg = 'empty cannot be resolved or is not a field'
+10 Nov 2019 16:00:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c9cf59
+10 Nov 2019 16:00:20 GMT:  Kind = ERROR
+10 Nov 2019 16:00:20 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 80 ColNo = 13 Msg = 'key cannot be resolved to a variable'
+10 Nov 2019 16:00:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@15d6146
+10 Nov 2019 16:00:20 GMT:  Kind = ERROR
+10 Nov 2019 16:00:20 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 80 ColNo = 20 Msg = 'key cannot be resolved to a variable'
+10 Nov 2019 16:00:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@18fb37c
+10 Nov 2019 16:00:20 GMT:  Kind = ERROR
+10 Nov 2019 16:00:20 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 81 ColNo = 13 Msg = 'min_key cannot be resolved to a variable'
+10 Nov 2019 16:00:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1de01c4
+10 Nov 2019 16:00:20 GMT:  Kind = ERROR
+10 Nov 2019 16:00:20 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 93 ColNo = 36 Msg = 'min_key cannot be resolved to a variable'
+10 Nov 2019 16:00:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6cbf61
+10 Nov 2019 16:00:20 GMT:  Kind = ERROR
+10 Nov 2019 16:00:20 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 93 ColNo = 29 Msg = 'The operator < is undefined for the argument type(s) int[], int[]'
+10 Nov 2019 16:00:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@43b3bb
+10 Nov 2019 16:00:20 GMT:  Kind = ERROR
+10 Nov 2019 16:00:20 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 94 ColNo = 10 Msg = 'key cannot be resolved to a variable'
+10 Nov 2019 16:00:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2ff15c
+10 Nov 2019 16:00:20 GMT:  Kind = ERROR
+10 Nov 2019 16:00:20 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 95 ColNo = 10 Msg = 'parents cannot be resolved to a variable'
+10 Nov 2019 16:00:33 GMT: diagnostics = javax.tools.DiagnosticCollector@1bb607c
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@137a20c
+fileObjects = [E:\cse221\lab\18101049_Md Imdadul Haque_Lab06\lab06\src\lab06\Lab06.java, E:\cse221\CSE221 LAB\CSE221 LAB\LAB5\LAB5_18101460_Tasnia_Rahman_Sec08\Prim.java, E:\cse221\lab\lab4\PrimMst.java]
+10 Nov 2019 16:00:33 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@148f34c' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\18101049_Md Imdadul Haque_Lab06\lab06\src;E:\cse221\CSE221 LAB\CSE221 LAB\LAB5\LAB5_18101460_Tasnia_Rahman_Sec08;E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+10 Nov 2019 16:00:33 GMT: Compiler call returned
+10 Nov 2019 16:00:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@176474c
+10 Nov 2019 16:00:33 GMT:  Kind = ERROR
+10 Nov 2019 16:00:33 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 59 ColNo = 49 Msg = 'Syntax error, insert "}" to complete MethodBody'
+10 Nov 2019 16:00:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@170a1ff
+10 Nov 2019 16:00:33 GMT:  Kind = WARNING
+10 Nov 2019 16:00:33 GMT: Name = E:\cse221\CSE221 LAB\CSE221 LAB\LAB5\LAB5_18101460_Tasnia_Rahman_Sec08\Prim.java LineNo = 19 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+10 Nov 2019 16:00:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@12ef4ba
+10 Nov 2019 16:00:33 GMT:  Kind = WARNING
+10 Nov 2019 16:00:33 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 2 ColNo = 8 Msg = 'The import java.lang is never used'
+10 Nov 2019 16:00:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@12438f3
+10 Nov 2019 16:00:33 GMT:  Kind = WARNING
+10 Nov 2019 16:00:33 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 45 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+10 Nov 2019 16:00:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@55433c
+10 Nov 2019 16:00:33 GMT:  Kind = ERROR
+10 Nov 2019 16:00:33 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 56 ColNo = 16 Msg = 'v cannot be resolved to a variable'
+10 Nov 2019 16:00:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b47290
+10 Nov 2019 16:00:33 GMT:  Kind = ERROR
+10 Nov 2019 16:00:33 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 57 ColNo = 16 Msg = 'v cannot be resolved to a variable'
+10 Nov 2019 16:00:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@15d9d8
+10 Nov 2019 16:00:33 GMT:  Kind = ERROR
+10 Nov 2019 16:00:33 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 58 ColNo = 20 Msg = 'v cannot be resolved to a variable'
+10 Nov 2019 16:00:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@529b09
+10 Nov 2019 16:00:33 GMT:  Kind = ERROR
+10 Nov 2019 16:00:33 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 63 ColNo = 6 Msg = 'key cannot be resolved to a variable'
+10 Nov 2019 16:00:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c619c
+10 Nov 2019 16:00:33 GMT:  Kind = ERROR
+10 Nov 2019 16:00:33 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 64 ColNo = 6 Msg = 'parents cannot be resolved to a variable'
+10 Nov 2019 16:00:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a9a4bf
+10 Nov 2019 16:00:33 GMT:  Kind = ERROR
+10 Nov 2019 16:00:33 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 67 ColNo = 5 Msg = 'key cannot be resolved to a variable'
+10 Nov 2019 16:00:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d0618b
+10 Nov 2019 16:00:33 GMT:  Kind = ERROR
+10 Nov 2019 16:00:33 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 67 ColNo = 9 Msg = 'r cannot be resolved to a variable'
+10 Nov 2019 16:00:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1662beb
+10 Nov 2019 16:00:33 GMT:  Kind = ERROR
+10 Nov 2019 16:00:33 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 70 ColNo = 5 Msg = 'q cannot be resolved'
+10 Nov 2019 16:00:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@bfbeda
+10 Nov 2019 16:00:33 GMT:  Kind = ERROR
+10 Nov 2019 16:00:33 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 76 ColNo = 11 Msg = 'q cannot be resolved to a variable'
+10 Nov 2019 16:00:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@41612e
+10 Nov 2019 16:00:33 GMT:  Kind = ERROR
+10 Nov 2019 16:00:33 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 80 ColNo = 13 Msg = 'key cannot be resolved to a variable'
+10 Nov 2019 16:00:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@8385d4
+10 Nov 2019 16:00:33 GMT:  Kind = ERROR
+10 Nov 2019 16:00:33 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 80 ColNo = 20 Msg = 'key cannot be resolved to a variable'
+10 Nov 2019 16:00:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2acddc
+10 Nov 2019 16:00:33 GMT:  Kind = ERROR
+10 Nov 2019 16:00:33 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 81 ColNo = 13 Msg = 'min_key cannot be resolved to a variable'
+10 Nov 2019 16:00:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e6faed
+10 Nov 2019 16:00:33 GMT:  Kind = ERROR
+10 Nov 2019 16:00:33 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 82 ColNo = 13 Msg = 'q cannot be resolved'
+10 Nov 2019 16:00:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@afa3ee
+10 Nov 2019 16:00:33 GMT:  Kind = ERROR
+10 Nov 2019 16:00:33 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 93 ColNo = 36 Msg = 'min_key cannot be resolved to a variable'
+10 Nov 2019 16:00:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a2b0a
+10 Nov 2019 16:00:33 GMT:  Kind = ERROR
+10 Nov 2019 16:00:33 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 93 ColNo = 29 Msg = 'The operator < is undefined for the argument type(s) int[], int[]'
+10 Nov 2019 16:00:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@9c43fa
+10 Nov 2019 16:00:33 GMT:  Kind = ERROR
+10 Nov 2019 16:00:33 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 94 ColNo = 10 Msg = 'key cannot be resolved to a variable'
+10 Nov 2019 16:00:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@9bfbd6
+10 Nov 2019 16:00:33 GMT:  Kind = ERROR
+10 Nov 2019 16:00:33 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 95 ColNo = 10 Msg = 'parents cannot be resolved to a variable'
+10 Nov 2019 16:01:55 GMT: diagnostics = javax.tools.DiagnosticCollector@19e7a7d
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@7ab54f
+fileObjects = [E:\cse221\lab\18101049_Md Imdadul Haque_Lab06\lab06\src\lab06\Lab06.java, E:\cse221\CSE221 LAB\CSE221 LAB\LAB5\LAB5_18101460_Tasnia_Rahman_Sec08\Prim.java, E:\cse221\lab\lab4\PrimMst.java]
+10 Nov 2019 16:01:55 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@5c5d64' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\18101049_Md Imdadul Haque_Lab06\lab06\src;E:\cse221\CSE221 LAB\CSE221 LAB\LAB5\LAB5_18101460_Tasnia_Rahman_Sec08;E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+10 Nov 2019 16:01:55 GMT: Compiler call returned
+10 Nov 2019 16:01:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4f15fc
+10 Nov 2019 16:01:55 GMT:  Kind = ERROR
+10 Nov 2019 16:01:55 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 59 ColNo = 49 Msg = 'Syntax error, insert "}" to complete MethodBody'
+10 Nov 2019 16:01:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a1c4e4
+10 Nov 2019 16:01:55 GMT:  Kind = WARNING
+10 Nov 2019 16:01:55 GMT: Name = E:\cse221\CSE221 LAB\CSE221 LAB\LAB5\LAB5_18101460_Tasnia_Rahman_Sec08\Prim.java LineNo = 19 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+10 Nov 2019 16:01:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ba3117
+10 Nov 2019 16:01:55 GMT:  Kind = WARNING
+10 Nov 2019 16:01:55 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 2 ColNo = 8 Msg = 'The import java.lang is never used'
+10 Nov 2019 16:01:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f1a58a
+10 Nov 2019 16:01:55 GMT:  Kind = WARNING
+10 Nov 2019 16:01:55 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 45 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+10 Nov 2019 16:01:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b1a1dd
+10 Nov 2019 16:01:55 GMT:  Kind = ERROR
+10 Nov 2019 16:01:55 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 56 ColNo = 16 Msg = 'v cannot be resolved to a variable'
+10 Nov 2019 16:01:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@124c68b
+10 Nov 2019 16:01:55 GMT:  Kind = ERROR
+10 Nov 2019 16:01:55 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 57 ColNo = 16 Msg = 'v cannot be resolved to a variable'
+10 Nov 2019 16:01:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d47a31
+10 Nov 2019 16:01:55 GMT:  Kind = ERROR
+10 Nov 2019 16:01:55 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 58 ColNo = 20 Msg = 'v cannot be resolved to a variable'
+10 Nov 2019 16:01:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e4d34
+10 Nov 2019 16:01:55 GMT:  Kind = ERROR
+10 Nov 2019 16:01:55 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 63 ColNo = 6 Msg = 'key cannot be resolved to a variable'
+10 Nov 2019 16:01:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@116a421
+10 Nov 2019 16:01:55 GMT:  Kind = ERROR
+10 Nov 2019 16:01:55 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 64 ColNo = 6 Msg = 'parents cannot be resolved to a variable'
+10 Nov 2019 16:01:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@192156
+10 Nov 2019 16:01:55 GMT:  Kind = ERROR
+10 Nov 2019 16:01:55 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 67 ColNo = 5 Msg = 'key cannot be resolved to a variable'
+10 Nov 2019 16:01:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@44de16
+10 Nov 2019 16:01:55 GMT:  Kind = ERROR
+10 Nov 2019 16:01:55 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 67 ColNo = 9 Msg = 'r cannot be resolved to a variable'
+10 Nov 2019 16:01:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ad5747
+10 Nov 2019 16:01:55 GMT:  Kind = ERROR
+10 Nov 2019 16:01:55 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 70 ColNo = 5 Msg = 'q cannot be resolved'
+10 Nov 2019 16:01:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@74de9f
+10 Nov 2019 16:01:55 GMT:  Kind = ERROR
+10 Nov 2019 16:01:55 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 76 ColNo = 11 Msg = 'q cannot be resolved to a variable'
+10 Nov 2019 16:01:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ea53d6
+10 Nov 2019 16:01:55 GMT:  Kind = ERROR
+10 Nov 2019 16:01:55 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 80 ColNo = 13 Msg = 'key cannot be resolved to a variable'
+10 Nov 2019 16:01:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1649793
+10 Nov 2019 16:01:55 GMT:  Kind = ERROR
+10 Nov 2019 16:01:55 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 80 ColNo = 20 Msg = 'key cannot be resolved to a variable'
+10 Nov 2019 16:01:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@18bf6d7
+10 Nov 2019 16:01:55 GMT:  Kind = ERROR
+10 Nov 2019 16:01:55 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 81 ColNo = 13 Msg = 'min_key cannot be resolved to a variable'
+10 Nov 2019 16:01:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d1561f
+10 Nov 2019 16:01:55 GMT:  Kind = ERROR
+10 Nov 2019 16:01:55 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 82 ColNo = 13 Msg = 'q cannot be resolved'
+10 Nov 2019 16:01:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6dc10
+10 Nov 2019 16:01:55 GMT:  Kind = ERROR
+10 Nov 2019 16:01:55 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 93 ColNo = 36 Msg = 'min_key cannot be resolved to a variable'
+10 Nov 2019 16:01:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13102cc
+10 Nov 2019 16:01:55 GMT:  Kind = ERROR
+10 Nov 2019 16:01:55 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 93 ColNo = 29 Msg = 'The operator < is undefined for the argument type(s) int[], int[]'
+10 Nov 2019 16:01:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@16065f3
+10 Nov 2019 16:01:55 GMT:  Kind = ERROR
+10 Nov 2019 16:01:55 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 94 ColNo = 10 Msg = 'key cannot be resolved to a variable'
+10 Nov 2019 16:01:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@62b36e
+10 Nov 2019 16:01:55 GMT:  Kind = ERROR
+10 Nov 2019 16:01:55 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 95 ColNo = 10 Msg = 'parents cannot be resolved to a variable'
+10 Nov 2019 16:02:14 GMT: diagnostics = javax.tools.DiagnosticCollector@21269c
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1a0627b
+fileObjects = [E:\cse221\lab\18101049_Md Imdadul Haque_Lab06\lab06\src\lab06\Lab06.java, E:\cse221\CSE221 LAB\CSE221 LAB\LAB5\LAB5_18101460_Tasnia_Rahman_Sec08\Prim.java, E:\cse221\lab\lab4\PrimMst.java]
+10 Nov 2019 16:02:14 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1bb9fcd' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\18101049_Md Imdadul Haque_Lab06\lab06\src;E:\cse221\CSE221 LAB\CSE221 LAB\LAB5\LAB5_18101460_Tasnia_Rahman_Sec08;E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+10 Nov 2019 16:02:14 GMT: Compiler call returned
+10 Nov 2019 16:02:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@11cf382
+10 Nov 2019 16:02:14 GMT:  Kind = ERROR
+10 Nov 2019 16:02:14 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 59 ColNo = 49 Msg = 'Syntax error, insert "}" to complete MethodBody'
+10 Nov 2019 16:02:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@590cf8
+10 Nov 2019 16:02:14 GMT:  Kind = WARNING
+10 Nov 2019 16:02:14 GMT: Name = E:\cse221\CSE221 LAB\CSE221 LAB\LAB5\LAB5_18101460_Tasnia_Rahman_Sec08\Prim.java LineNo = 19 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+10 Nov 2019 16:02:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@74f211
+10 Nov 2019 16:02:14 GMT:  Kind = WARNING
+10 Nov 2019 16:02:14 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 2 ColNo = 8 Msg = 'The import java.lang is never used'
+10 Nov 2019 16:02:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@56948d
+10 Nov 2019 16:02:14 GMT:  Kind = WARNING
+10 Nov 2019 16:02:14 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 45 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+10 Nov 2019 16:02:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ee5e6
+10 Nov 2019 16:02:14 GMT:  Kind = ERROR
+10 Nov 2019 16:02:14 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 56 ColNo = 16 Msg = 'graph cannot be resolved to a variable'
+10 Nov 2019 16:02:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a61cd1
+10 Nov 2019 16:02:14 GMT:  Kind = ERROR
+10 Nov 2019 16:02:14 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 57 ColNo = 16 Msg = 'v cannot be resolved to a variable'
+10 Nov 2019 16:02:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f9996e
+10 Nov 2019 16:02:14 GMT:  Kind = ERROR
+10 Nov 2019 16:02:14 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 58 ColNo = 20 Msg = 'v cannot be resolved to a variable'
+10 Nov 2019 16:02:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@12f9ba0
+10 Nov 2019 16:02:14 GMT:  Kind = ERROR
+10 Nov 2019 16:02:14 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 63 ColNo = 6 Msg = 'key cannot be resolved to a variable'
+10 Nov 2019 16:02:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b177b6
+10 Nov 2019 16:02:14 GMT:  Kind = ERROR
+10 Nov 2019 16:02:14 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 64 ColNo = 6 Msg = 'parents cannot be resolved to a variable'
+10 Nov 2019 16:02:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1fbe25
+10 Nov 2019 16:02:14 GMT:  Kind = ERROR
+10 Nov 2019 16:02:14 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 67 ColNo = 5 Msg = 'key cannot be resolved to a variable'
+10 Nov 2019 16:02:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@18465a1
+10 Nov 2019 16:02:14 GMT:  Kind = ERROR
+10 Nov 2019 16:02:14 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 67 ColNo = 9 Msg = 'r cannot be resolved to a variable'
+10 Nov 2019 16:02:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4b19aa
+10 Nov 2019 16:02:14 GMT:  Kind = ERROR
+10 Nov 2019 16:02:14 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 70 ColNo = 5 Msg = 'q cannot be resolved'
+10 Nov 2019 16:02:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@122c052
+10 Nov 2019 16:02:14 GMT:  Kind = ERROR
+10 Nov 2019 16:02:14 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 76 ColNo = 11 Msg = 'q cannot be resolved to a variable'
+10 Nov 2019 16:02:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@31a6c5
+10 Nov 2019 16:02:14 GMT:  Kind = ERROR
+10 Nov 2019 16:02:14 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 80 ColNo = 13 Msg = 'key cannot be resolved to a variable'
+10 Nov 2019 16:02:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@12638f
+10 Nov 2019 16:02:14 GMT:  Kind = ERROR
+10 Nov 2019 16:02:14 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 80 ColNo = 20 Msg = 'key cannot be resolved to a variable'
+10 Nov 2019 16:02:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@58bcae
+10 Nov 2019 16:02:14 GMT:  Kind = ERROR
+10 Nov 2019 16:02:14 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 81 ColNo = 13 Msg = 'min_key cannot be resolved to a variable'
+10 Nov 2019 16:02:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@19fc5e7
+10 Nov 2019 16:02:14 GMT:  Kind = ERROR
+10 Nov 2019 16:02:14 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 82 ColNo = 13 Msg = 'q cannot be resolved'
+10 Nov 2019 16:02:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@19591f
+10 Nov 2019 16:02:14 GMT:  Kind = ERROR
+10 Nov 2019 16:02:14 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 93 ColNo = 36 Msg = 'min_key cannot be resolved to a variable'
+10 Nov 2019 16:02:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1024908
+10 Nov 2019 16:02:14 GMT:  Kind = ERROR
+10 Nov 2019 16:02:14 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 93 ColNo = 29 Msg = 'The operator < is undefined for the argument type(s) int[], int[]'
+10 Nov 2019 16:02:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@303f4a
+10 Nov 2019 16:02:14 GMT:  Kind = ERROR
+10 Nov 2019 16:02:14 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 94 ColNo = 10 Msg = 'key cannot be resolved to a variable'
+10 Nov 2019 16:02:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d36496
+10 Nov 2019 16:02:14 GMT:  Kind = ERROR
+10 Nov 2019 16:02:14 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 95 ColNo = 10 Msg = 'parents cannot be resolved to a variable'
+10 Nov 2019 16:03:05 GMT: diagnostics = javax.tools.DiagnosticCollector@1190b1
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@e102d7
+fileObjects = [E:\cse221\lab\18101049_Md Imdadul Haque_Lab06\lab06\src\lab06\Lab06.java, E:\cse221\CSE221 LAB\CSE221 LAB\LAB5\LAB5_18101460_Tasnia_Rahman_Sec08\Prim.java, E:\cse221\lab\lab4\PrimMst.java]
+10 Nov 2019 16:03:05 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@65d2f2' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\18101049_Md Imdadul Haque_Lab06\lab06\src;E:\cse221\CSE221 LAB\CSE221 LAB\LAB5\LAB5_18101460_Tasnia_Rahman_Sec08;E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+10 Nov 2019 16:03:05 GMT: Compiler call returned
+10 Nov 2019 16:03:05 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f3c108
+10 Nov 2019 16:03:05 GMT:  Kind = WARNING
+10 Nov 2019 16:03:05 GMT: Name = E:\cse221\CSE221 LAB\CSE221 LAB\LAB5\LAB5_18101460_Tasnia_Rahman_Sec08\Prim.java LineNo = 19 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+10 Nov 2019 16:03:05 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e2ad5b
+10 Nov 2019 16:03:05 GMT:  Kind = ERROR
+10 Nov 2019 16:03:05 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 60 ColNo = 22 Msg = 'Syntax error on token "(", ; expected'
+10 Nov 2019 16:03:05 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@154c827
+10 Nov 2019 16:03:05 GMT:  Kind = ERROR
+10 Nov 2019 16:03:05 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 60 ColNo = 36 Msg = 'Syntax error on token ",", ; expected'
+10 Nov 2019 16:03:05 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@561cb2
+10 Nov 2019 16:03:05 GMT:  Kind = ERROR
+10 Nov 2019 16:03:05 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 60 ColNo = 51 Msg = 'Syntax error on token ",", ; expected'
+10 Nov 2019 16:03:05 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@18a7bb1
+10 Nov 2019 16:03:05 GMT:  Kind = ERROR
+10 Nov 2019 16:03:05 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 60 ColNo = 61 Msg = 'Syntax error on token ")", ; expected'
+10 Nov 2019 16:03:05 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1549fee
+10 Nov 2019 16:03:05 GMT:  Kind = WARNING
+10 Nov 2019 16:03:05 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 2 ColNo = 8 Msg = 'The import java.lang is never used'
+10 Nov 2019 16:03:45 GMT: diagnostics = javax.tools.DiagnosticCollector@e9b568
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1eee5d4
+fileObjects = [E:\cse221\lab\18101049_Md Imdadul Haque_Lab06\lab06\src\lab06\Lab06.java, E:\cse221\CSE221 LAB\CSE221 LAB\LAB5\LAB5_18101460_Tasnia_Rahman_Sec08\Prim.java, E:\cse221\lab\lab4\PrimMst.java]
+10 Nov 2019 16:03:45 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@d38f06' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\18101049_Md Imdadul Haque_Lab06\lab06\src;E:\cse221\CSE221 LAB\CSE221 LAB\LAB5\LAB5_18101460_Tasnia_Rahman_Sec08;E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+10 Nov 2019 16:03:45 GMT: Compiler call returned
+10 Nov 2019 16:03:45 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@23db3a
+10 Nov 2019 16:03:45 GMT:  Kind = WARNING
+10 Nov 2019 16:03:45 GMT: Name = E:\cse221\CSE221 LAB\CSE221 LAB\LAB5\LAB5_18101460_Tasnia_Rahman_Sec08\Prim.java LineNo = 19 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+10 Nov 2019 16:03:45 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@cdce28
+10 Nov 2019 16:03:45 GMT:  Kind = ERROR
+10 Nov 2019 16:03:45 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 60 ColNo = 29 Msg = 'Syntax error on token "(", ; expected'
+10 Nov 2019 16:03:45 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c47547
+10 Nov 2019 16:03:45 GMT:  Kind = ERROR
+10 Nov 2019 16:03:45 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 60 ColNo = 43 Msg = 'Syntax error on token ",", ; expected'
+10 Nov 2019 16:03:45 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@78ce4c
+10 Nov 2019 16:03:45 GMT:  Kind = ERROR
+10 Nov 2019 16:03:45 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 60 ColNo = 58 Msg = 'Syntax error on token ",", ; expected'
+10 Nov 2019 16:03:45 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6826b2
+10 Nov 2019 16:03:45 GMT:  Kind = ERROR
+10 Nov 2019 16:03:45 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 60 ColNo = 68 Msg = 'Syntax error on token ")", ; expected'
+10 Nov 2019 16:03:45 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a21099
+10 Nov 2019 16:03:45 GMT:  Kind = WARNING
+10 Nov 2019 16:03:45 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 2 ColNo = 8 Msg = 'The import java.lang is never used'
+10 Nov 2019 16:57:37 GMT: diagnostics = javax.tools.DiagnosticCollector@1b74af4
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@10fbe9d
+fileObjects = [E:\cse221\lab\18101049_Md Imdadul Haque_Lab06\lab06\src\lab06\Lab06.java, E:\cse221\CSE221 LAB\CSE221 LAB\LAB5\LAB5_18101460_Tasnia_Rahman_Sec08\Prim.java, E:\cse221\lab\lab4\PrimMst.java]
+10 Nov 2019 16:57:37 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1f3e1a' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\18101049_Md Imdadul Haque_Lab06\lab06\src;E:\cse221\CSE221 LAB\CSE221 LAB\LAB5\LAB5_18101460_Tasnia_Rahman_Sec08;E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+10 Nov 2019 16:57:37 GMT: Compiler call returned
+10 Nov 2019 16:57:37 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@12a063e
+10 Nov 2019 16:57:37 GMT:  Kind = WARNING
+10 Nov 2019 16:57:37 GMT: Name = E:\cse221\CSE221 LAB\CSE221 LAB\LAB5\LAB5_18101460_Tasnia_Rahman_Sec08\Prim.java LineNo = 19 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+10 Nov 2019 16:57:37 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a024e5
+10 Nov 2019 16:57:37 GMT:  Kind = ERROR
+10 Nov 2019 16:57:37 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 60 ColNo = 29 Msg = 'Syntax error on token "(", ; expected'
+10 Nov 2019 16:57:37 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e66b07
+10 Nov 2019 16:57:37 GMT:  Kind = ERROR
+10 Nov 2019 16:57:37 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 60 ColNo = 43 Msg = 'Syntax error on token ",", ; expected'
+10 Nov 2019 16:57:37 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1bdd927
+10 Nov 2019 16:57:37 GMT:  Kind = ERROR
+10 Nov 2019 16:57:37 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 60 ColNo = 56 Msg = 'Syntax error on token ",", ; expected'
+10 Nov 2019 16:57:37 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5f2758
+10 Nov 2019 16:57:37 GMT:  Kind = ERROR
+10 Nov 2019 16:57:37 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 60 ColNo = 66 Msg = 'Syntax error on token ")", ; expected'
+10 Nov 2019 16:57:37 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@18ba03a
+10 Nov 2019 16:57:37 GMT:  Kind = WARNING
+10 Nov 2019 16:57:37 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 2 ColNo = 8 Msg = 'The import java.lang is never used'
+10 Nov 2019 20:14:21 GMT: Log 'EclipseCompiler.txt' opened: 10 Nov 2019 20:14:21 GMT with name E:\cse221\lab\lab4\EclipseCompiler.txt
+18 Nov 2019 18:31:50 GMT: Log 'EclipseCompiler.txt' opened: 18 Nov 2019 18:31:50 GMT with name E:\cse221\lab\lab4\EclipseCompiler.txt
+19 Nov 2019 7:10:24 GMT: Log 'EclipseCompiler.txt' opened: 19 Nov 2019 7:10:24 GMT with name E:\cse221\lab\lab4\EclipseCompiler.txt
+19 Nov 2019 9:10:08 GMT: diagnostics = javax.tools.DiagnosticCollector@83711e
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1181443
+fileObjects = [E:\cse221\lab\lab4\PrimMst.java]
+19 Nov 2019 9:10:08 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@19016e0' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+19 Nov 2019 9:10:10 GMT: Compiler call returned
+19 Nov 2019 9:10:10 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17209a1
+19 Nov 2019 9:10:10 GMT:  Kind = ERROR
+19 Nov 2019 9:10:10 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 60 ColNo = 29 Msg = 'Syntax error on token "(", ; expected'
+19 Nov 2019 9:10:10 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f28f7
+19 Nov 2019 9:10:10 GMT:  Kind = ERROR
+19 Nov 2019 9:10:10 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 60 ColNo = 43 Msg = 'Syntax error on token ",", ; expected'
+19 Nov 2019 9:10:10 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1eb1014
+19 Nov 2019 9:10:10 GMT:  Kind = ERROR
+19 Nov 2019 9:10:10 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 60 ColNo = 56 Msg = 'Syntax error on token ",", ; expected'
+19 Nov 2019 9:10:10 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e17b57
+19 Nov 2019 9:10:10 GMT:  Kind = ERROR
+19 Nov 2019 9:10:10 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 60 ColNo = 66 Msg = 'Syntax error on token ")", ; expected'
+19 Nov 2019 9:10:10 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@19865b0
+19 Nov 2019 9:10:10 GMT:  Kind = WARNING
+19 Nov 2019 9:10:10 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 2 ColNo = 8 Msg = 'The import java.lang is never used'
+24 Nov 2019 18:26:10 GMT: Log 'EclipseCompiler.txt' opened: 24 Nov 2019 18:26:10 GMT with name E:\cse221\lab\lab4\EclipseCompiler.txt
+24 Nov 2019 18:26:16 GMT: diagnostics = javax.tools.DiagnosticCollector@16bb9ed
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@73a5c4
+fileObjects = [E:\cse221\lab\lab4\PrimMst.java]
+24 Nov 2019 18:26:16 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@14f9add' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+24 Nov 2019 18:26:17 GMT: Compiler call returned
+24 Nov 2019 18:26:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@554713
+24 Nov 2019 18:26:17 GMT:  Kind = WARNING
+24 Nov 2019 18:26:17 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 2 ColNo = 8 Msg = 'The import java.lang is never used'
+24 Nov 2019 18:31:56 GMT: diagnostics = javax.tools.DiagnosticCollector@2af3d0
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1f96b4f
+fileObjects = [E:\cse221\lab\lab4\PrimMst.java]
+24 Nov 2019 18:31:56 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1599ccf' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+24 Nov 2019 18:31:57 GMT: Compiler call returned
+24 Nov 2019 18:31:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ff5ec5
+24 Nov 2019 18:31:57 GMT:  Kind = WARNING
+24 Nov 2019 18:31:57 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 2 ColNo = 8 Msg = 'The import java.lang is never used'
+24 Nov 2019 18:39:47 GMT: diagnostics = javax.tools.DiagnosticCollector@1b1a4b5
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@167c65e
+fileObjects = [E:\cse221\lab\lab4\PrimMst.java]
+24 Nov 2019 18:39:47 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@c7ecd0' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+24 Nov 2019 18:39:47 GMT: Compiler call returned
+24 Nov 2019 18:39:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e2b65b
+24 Nov 2019 18:39:47 GMT:  Kind = WARNING
+24 Nov 2019 18:39:47 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 2 ColNo = 8 Msg = 'The import java.lang is never used'
+24 Nov 2019 18:39:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1862767
+24 Nov 2019 18:39:47 GMT:  Kind = ERROR
+24 Nov 2019 18:39:47 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 43 ColNo = 28 Msg = 'v cannot be resolved to a variable'
+24 Nov 2019 18:39:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17fcd57
+24 Nov 2019 18:39:47 GMT:  Kind = ERROR
+24 Nov 2019 18:39:47 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 44 ColNo = 33 Msg = 'v cannot be resolved to a variable'
+24 Nov 2019 18:39:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7d8cd5
+24 Nov 2019 18:39:47 GMT:  Kind = ERROR
+24 Nov 2019 18:39:47 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 15 ColNo = 7 Msg = 'v cannot be resolved to a variable'
+24 Nov 2019 18:39:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@19bbef
+24 Nov 2019 18:39:47 GMT:  Kind = ERROR
+24 Nov 2019 18:39:47 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 16 ColNo = 26 Msg = 'v cannot be resolved to a variable'
+24 Nov 2019 18:39:53 GMT: diagnostics = javax.tools.DiagnosticCollector@1b214d7
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@9ebda0
+fileObjects = [E:\cse221\lab\lab4\PrimMst.java]
+24 Nov 2019 18:39:53 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@122d14b' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+24 Nov 2019 18:39:53 GMT: Compiler call returned
+24 Nov 2019 18:39:53 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1da209a
+24 Nov 2019 18:39:53 GMT:  Kind = WARNING
+24 Nov 2019 18:39:53 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 2 ColNo = 8 Msg = 'The import java.lang is never used'
+24 Nov 2019 18:39:53 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@15b2a01
+24 Nov 2019 18:39:53 GMT:  Kind = ERROR
+24 Nov 2019 18:39:53 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 43 ColNo = 28 Msg = 'v cannot be resolved to a variable'
+24 Nov 2019 18:39:53 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@70dd79
+24 Nov 2019 18:39:53 GMT:  Kind = ERROR
+24 Nov 2019 18:39:53 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 44 ColNo = 33 Msg = 'v cannot be resolved to a variable'
+24 Nov 2019 18:39:53 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1eae2c8
+24 Nov 2019 18:39:53 GMT:  Kind = ERROR
+24 Nov 2019 18:39:53 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 16 ColNo = 26 Msg = 'v cannot be resolved to a variable'
+24 Nov 2019 18:39:58 GMT: diagnostics = javax.tools.DiagnosticCollector@ed687f
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@142b66a
+fileObjects = [E:\cse221\lab\lab4\PrimMst.java]
+24 Nov 2019 18:39:58 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@18ba330' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+24 Nov 2019 18:39:58 GMT: Compiler call returned
+24 Nov 2019 18:39:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1631cb5
+24 Nov 2019 18:39:58 GMT:  Kind = WARNING
+24 Nov 2019 18:39:58 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 2 ColNo = 8 Msg = 'The import java.lang is never used'
+24 Nov 2019 18:39:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c90b5d
+24 Nov 2019 18:39:58 GMT:  Kind = ERROR
+24 Nov 2019 18:39:58 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 43 ColNo = 28 Msg = 'v cannot be resolved to a variable'
+24 Nov 2019 18:39:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@beff32
+24 Nov 2019 18:39:58 GMT:  Kind = ERROR
+24 Nov 2019 18:39:58 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 44 ColNo = 33 Msg = 'v cannot be resolved to a variable'
+24 Nov 2019 18:40:09 GMT: diagnostics = javax.tools.DiagnosticCollector@182c62c
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@9071ba
+fileObjects = [E:\cse221\lab\lab4\PrimMst.java]
+24 Nov 2019 18:40:09 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@959c05' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+24 Nov 2019 18:40:09 GMT: Compiler call returned
+24 Nov 2019 18:40:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@14e7a18
+24 Nov 2019 18:40:09 GMT:  Kind = WARNING
+24 Nov 2019 18:40:09 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 2 ColNo = 8 Msg = 'The import java.lang is never used'
+24 Nov 2019 18:41:38 GMT: diagnostics = javax.tools.DiagnosticCollector@1e2e767
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1469db2
+fileObjects = [E:\cse221\lab\lab4\PrimMst.java]
+24 Nov 2019 18:41:38 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@b85c95' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+24 Nov 2019 18:41:38 GMT: Compiler call returned
+24 Nov 2019 18:41:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@bf846e
+24 Nov 2019 18:41:38 GMT:  Kind = WARNING
+24 Nov 2019 18:41:38 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 2 ColNo = 8 Msg = 'The import java.lang is never used'
+24 Nov 2019 18:43:32 GMT: Log 'EclipseCompiler.txt' opened: 24 Nov 2019 18:43:32 GMT with name E:\cse221\lab\lab4\EclipseCompiler.txt
+24 Nov 2019 18:46:08 GMT: diagnostics = javax.tools.DiagnosticCollector@15c20d6
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@15cf921
+fileObjects = [E:\cse221\lab\lab4\PrimMst.java]
+24 Nov 2019 18:46:08 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@48fdac' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+24 Nov 2019 18:46:08 GMT: Compiler call returned
+24 Nov 2019 18:46:08 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@35557a
+24 Nov 2019 18:46:08 GMT:  Kind = WARNING
+24 Nov 2019 18:46:08 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 2 ColNo = 8 Msg = 'The import java.lang is never used'
+24 Nov 2019 19:31:40 GMT: diagnostics = javax.tools.DiagnosticCollector@13b3804
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1670532
+fileObjects = [E:\cse221\lab\lab4\PrimMst.java]
+24 Nov 2019 19:31:40 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@35410d' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+24 Nov 2019 19:31:40 GMT: Compiler call returned
+24 Nov 2019 19:31:40 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@183cca3
+24 Nov 2019 19:31:40 GMT:  Kind = WARNING
+24 Nov 2019 19:31:40 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 2 ColNo = 8 Msg = 'The import java.lang is never used'
+24 Nov 2019 20:21:27 GMT: diagnostics = javax.tools.DiagnosticCollector@1677ccf
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1b3c0e3
+fileObjects = [E:\cse221\lab\lab4\PrimMst.java, E:\cse221\lab\lab4\Prim1.java]
+24 Nov 2019 20:21:27 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@5623b6' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+24 Nov 2019 20:21:27 GMT: Compiler call returned
+24 Nov 2019 20:21:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b233b0
+24 Nov 2019 20:21:27 GMT:  Kind = ERROR
+24 Nov 2019 20:21:27 GMT: Name = E:\cse221\lab\lab4\Prim1.java LineNo = 71 ColNo = 1 Msg = 'Syntax error on tokens, ConstructorHeaderName expected instead'
+24 Nov 2019 20:21:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@73aa31
+24 Nov 2019 20:21:27 GMT:  Kind = WARNING
+24 Nov 2019 20:21:27 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 2 ColNo = 8 Msg = 'The import java.lang is never used'
+24 Nov 2019 20:21:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@acd9a6
+24 Nov 2019 20:21:27 GMT:  Kind = ERROR
+24 Nov 2019 20:21:27 GMT: Name = E:\cse221\lab\lab4\Prim1.java LineNo = 34 ColNo = 29 Msg = 'Syntax error, insert "}" to complete Block'
+24 Nov 2019 20:21:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1395fed
+24 Nov 2019 20:21:27 GMT:  Kind = ERROR
+24 Nov 2019 20:21:27 GMT: Name = E:\cse221\lab\lab4\Prim1.java LineNo = 34 ColNo = 29 Msg = 'Syntax error, insert "}" to complete Block'
+24 Nov 2019 20:21:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1eede49
+24 Nov 2019 20:21:27 GMT:  Kind = ERROR
+24 Nov 2019 20:21:27 GMT: Name = E:\cse221\lab\lab4\Prim1.java LineNo = 34 ColNo = 29 Msg = 'Syntax error, insert "Finally" to complete TryStatement'
+24 Nov 2019 20:21:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@85dce7
+24 Nov 2019 20:21:27 GMT:  Kind = WARNING
+24 Nov 2019 20:21:27 GMT: Name = E:\cse221\lab\lab4\Prim1.java LineNo = 2 ColNo = 8 Msg = 'The import java.lang is never used'
+24 Nov 2019 20:22:23 GMT: diagnostics = javax.tools.DiagnosticCollector@25cc2c
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1902fdb
+fileObjects = [E:\cse221\lab\lab4\PrimMst.java, E:\cse221\lab\lab4\Prim1.java]
+24 Nov 2019 20:22:23 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@17e1fb4' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+24 Nov 2019 20:22:24 GMT: Compiler call returned
+24 Nov 2019 20:22:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1af96fa
+24 Nov 2019 20:22:24 GMT:  Kind = ERROR
+24 Nov 2019 20:22:24 GMT: Name = E:\cse221\lab\lab4\Prim1.java LineNo = 71 ColNo = 1 Msg = 'Syntax error on tokens, ConstructorHeaderName expected instead'
+24 Nov 2019 20:22:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4dec54
+24 Nov 2019 20:22:24 GMT:  Kind = WARNING
+24 Nov 2019 20:22:24 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 2 ColNo = 8 Msg = 'The import java.lang is never used'
+24 Nov 2019 20:22:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@19aa8f8
+24 Nov 2019 20:22:24 GMT:  Kind = ERROR
+24 Nov 2019 20:22:24 GMT: Name = E:\cse221\lab\lab4\Prim1.java LineNo = 33 ColNo = 9 Msg = 'Syntax error, insert "}" to complete Block'
+24 Nov 2019 20:22:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@22c318
+24 Nov 2019 20:22:24 GMT:  Kind = ERROR
+24 Nov 2019 20:22:24 GMT: Name = E:\cse221\lab\lab4\Prim1.java LineNo = 33 ColNo = 9 Msg = 'Syntax error, insert "}" to complete Block'
+24 Nov 2019 20:22:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d182a0
+24 Nov 2019 20:22:24 GMT:  Kind = ERROR
+24 Nov 2019 20:22:24 GMT: Name = E:\cse221\lab\lab4\Prim1.java LineNo = 33 ColNo = 9 Msg = 'Syntax error, insert "Finally" to complete TryStatement'
+24 Nov 2019 20:22:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@95e3c2
+24 Nov 2019 20:22:24 GMT:  Kind = WARNING
+24 Nov 2019 20:22:24 GMT: Name = E:\cse221\lab\lab4\Prim1.java LineNo = 2 ColNo = 8 Msg = 'The import java.lang is never used'
+24 Nov 2019 20:24:02 GMT: diagnostics = javax.tools.DiagnosticCollector@1068582
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@8a9e33
+fileObjects = [E:\cse221\lab\lab4\PrimMst.java, E:\cse221\lab\lab4\Prim1.java]
+24 Nov 2019 20:24:02 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@95b0f9' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+24 Nov 2019 20:24:02 GMT: Compiler call returned
+24 Nov 2019 20:24:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@114a35d
+24 Nov 2019 20:24:02 GMT:  Kind = ERROR
+24 Nov 2019 20:24:02 GMT: Name = E:\cse221\lab\lab4\Prim1.java LineNo = 38 ColNo = 35 Msg = 'Syntax error on token ";", { expected after this token'
+24 Nov 2019 20:24:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1de3538
+24 Nov 2019 20:24:02 GMT:  Kind = ERROR
+24 Nov 2019 20:24:02 GMT: Name = E:\cse221\lab\lab4\Prim1.java LineNo = 71 ColNo = 1 Msg = 'Syntax error on tokens, ConstructorHeaderName expected instead'
+24 Nov 2019 20:24:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@97dc1f
+24 Nov 2019 20:24:02 GMT:  Kind = WARNING
+24 Nov 2019 20:24:02 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 2 ColNo = 8 Msg = 'The import java.lang is never used'
+24 Nov 2019 20:24:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@40fa09
+24 Nov 2019 20:24:02 GMT:  Kind = ERROR
+24 Nov 2019 20:24:02 GMT: Name = E:\cse221\lab\lab4\Prim1.java LineNo = 33 ColNo = 9 Msg = 'Syntax error, insert "}" to complete Block'
+24 Nov 2019 20:24:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@64a2d7
+24 Nov 2019 20:24:02 GMT:  Kind = ERROR
+24 Nov 2019 20:24:02 GMT: Name = E:\cse221\lab\lab4\Prim1.java LineNo = 33 ColNo = 9 Msg = 'Syntax error, insert "}" to complete Block'
+24 Nov 2019 20:24:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@793896
+24 Nov 2019 20:24:02 GMT:  Kind = ERROR
+24 Nov 2019 20:24:02 GMT: Name = E:\cse221\lab\lab4\Prim1.java LineNo = 33 ColNo = 9 Msg = 'Syntax error, insert "Finally" to complete TryStatement'
+24 Nov 2019 20:24:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c07e62
+24 Nov 2019 20:24:02 GMT:  Kind = WARNING
+24 Nov 2019 20:24:02 GMT: Name = E:\cse221\lab\lab4\Prim1.java LineNo = 2 ColNo = 8 Msg = 'The import java.lang is never used'
+24 Nov 2019 20:24:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b950c1
+24 Nov 2019 20:24:02 GMT:  Kind = ERROR
+24 Nov 2019 20:24:02 GMT: Name = E:\cse221\lab\lab4\Prim1.java LineNo = 52 ColNo = 21 Msg = 'graph cannot be resolved to a variable'
+24 Nov 2019 20:24:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2a293b
+24 Nov 2019 20:24:02 GMT:  Kind = ERROR
+24 Nov 2019 20:24:02 GMT: Name = E:\cse221\lab\lab4\Prim1.java LineNo = 62 ColNo = 14 Msg = 'graph cannot be resolved to a variable'
+24 Nov 2019 20:24:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f01120
+24 Nov 2019 20:24:02 GMT:  Kind = ERROR
+24 Nov 2019 20:24:02 GMT: Name = E:\cse221\lab\lab4\Prim1.java LineNo = 63 ColNo = 18 Msg = 'weight cannot be resolved to a variable'
+26 Nov 2019 6:38:35 GMT: Log 'EclipseCompiler.txt' opened: 26 Nov 2019 6:38:35 GMT with name E:\cse221\lab\lab4\EclipseCompiler.txt
+26 Nov 2019 6:51:12 GMT: diagnostics = javax.tools.DiagnosticCollector@a45802
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@916cf5
+fileObjects = [E:\cse221\lab\lab4\PrimMst.java]
+26 Nov 2019 6:51:12 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1c8dbf3' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+26 Nov 2019 6:51:13 GMT: Compiler call returned
+26 Nov 2019 6:51:13 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@12bf014
+26 Nov 2019 6:51:13 GMT:  Kind = ERROR
+26 Nov 2019 6:51:13 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 88 ColNo = 1 Msg = 'Syntax error, insert "}" to complete ClassBody'
+26 Nov 2019 6:51:13 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a77410
+26 Nov 2019 6:51:13 GMT:  Kind = WARNING
+26 Nov 2019 6:51:13 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 2 ColNo = 8 Msg = 'The import java.lang is never used'
+26 Nov 2019 6:51:13 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@168700
+26 Nov 2019 6:51:13 GMT:  Kind = ERROR
+26 Nov 2019 6:51:13 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 27 ColNo = 13 Msg = 'toen2 cannot be resolved to a variable'
+26 Nov 2019 6:51:13 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@58ec43
+26 Nov 2019 6:51:13 GMT:  Kind = ERROR
+26 Nov 2019 6:51:13 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 53 ColNo = 6 Msg = 'q cannot be resolved'
+26 Nov 2019 6:51:13 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17b5808
+26 Nov 2019 6:51:13 GMT:  Kind = ERROR
+26 Nov 2019 6:51:13 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 56 ColNo = 6 Msg = 'q cannot be resolved'
+26 Nov 2019 6:51:13 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5bcc3
+26 Nov 2019 6:51:13 GMT:  Kind = ERROR
+26 Nov 2019 6:51:13 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 58 ColNo = 19 Msg = 'q cannot be resolved'
+26 Nov 2019 6:51:13 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c70d44
+26 Nov 2019 6:51:13 GMT:  Kind = ERROR
+26 Nov 2019 6:51:13 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 60 ColNo = 30 Msg = 'q cannot be resolved'
+26 Nov 2019 6:51:13 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@19cc66b
+26 Nov 2019 6:51:13 GMT:  Kind = ERROR
+26 Nov 2019 6:51:13 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 61 ColNo = 31 Msg = 'v cannot be resolved to a variable'
+26 Nov 2019 6:51:13 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@446cc8
+26 Nov 2019 6:51:13 GMT:  Kind = ERROR
+26 Nov 2019 6:51:13 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 72 ColNo = 31 Msg = 'v cannot be resolved to a variable'
+26 Nov 2019 6:51:13 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@14a2e67
+26 Nov 2019 6:51:13 GMT:  Kind = ERROR
+26 Nov 2019 6:51:13 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 75 ColNo = 24 Msg = 'q cannot be resolved'
+26 Nov 2019 6:51:13 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f3b667
+26 Nov 2019 6:51:13 GMT:  Kind = ERROR
+26 Nov 2019 6:51:13 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 77 ColNo = 25 Msg = 'parent cannot be resolved to a variable'
+26 Nov 2019 6:51:13 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f79d6c
+26 Nov 2019 6:51:13 GMT:  Kind = ERROR
+26 Nov 2019 6:51:13 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 79 ColNo = 25 Msg = 'q cannot be resolved'
+26 Nov 2019 6:51:13 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d89c16
+26 Nov 2019 6:51:13 GMT:  Kind = ERROR
+26 Nov 2019 6:51:13 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 84 ColNo = 27 Msg = 'v cannot be resolved to a variable'
+26 Nov 2019 6:51:13 GMT: diagnostics = javax.tools.DiagnosticCollector@208511
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1d4accd
+fileObjects = [E:\cse221\lab\lab4\PrimMst.java]
+26 Nov 2019 6:51:13 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@12e798f' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+26 Nov 2019 6:51:13 GMT: Compiler call returned
+26 Nov 2019 6:51:13 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e43d59
+26 Nov 2019 6:51:13 GMT:  Kind = ERROR
+26 Nov 2019 6:51:13 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 88 ColNo = 1 Msg = 'Syntax error, insert "}" to complete ClassBody'
+26 Nov 2019 6:51:13 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b61b4a
+26 Nov 2019 6:51:13 GMT:  Kind = WARNING
+26 Nov 2019 6:51:13 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 2 ColNo = 8 Msg = 'The import java.lang is never used'
+26 Nov 2019 6:51:13 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d8bef
+26 Nov 2019 6:51:13 GMT:  Kind = ERROR
+26 Nov 2019 6:51:13 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 27 ColNo = 13 Msg = 'toen2 cannot be resolved to a variable'
+26 Nov 2019 6:51:13 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@74c63b
+26 Nov 2019 6:51:13 GMT:  Kind = ERROR
+26 Nov 2019 6:51:13 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 53 ColNo = 6 Msg = 'q cannot be resolved'
+26 Nov 2019 6:51:13 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1353259
+26 Nov 2019 6:51:13 GMT:  Kind = ERROR
+26 Nov 2019 6:51:13 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 56 ColNo = 6 Msg = 'q cannot be resolved'
+26 Nov 2019 6:51:13 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b0137e
+26 Nov 2019 6:51:13 GMT:  Kind = ERROR
+26 Nov 2019 6:51:13 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 58 ColNo = 19 Msg = 'q cannot be resolved'
+26 Nov 2019 6:51:13 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f8a974
+26 Nov 2019 6:51:13 GMT:  Kind = ERROR
+26 Nov 2019 6:51:13 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 60 ColNo = 30 Msg = 'q cannot be resolved'
+26 Nov 2019 6:51:13 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@65ea0e
+26 Nov 2019 6:51:13 GMT:  Kind = ERROR
+26 Nov 2019 6:51:13 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 61 ColNo = 31 Msg = 'v cannot be resolved to a variable'
+26 Nov 2019 6:51:13 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5ab4e1
+26 Nov 2019 6:51:13 GMT:  Kind = ERROR
+26 Nov 2019 6:51:13 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 72 ColNo = 31 Msg = 'v cannot be resolved to a variable'
+26 Nov 2019 6:51:13 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@296c37
+26 Nov 2019 6:51:13 GMT:  Kind = ERROR
+26 Nov 2019 6:51:13 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 75 ColNo = 24 Msg = 'q cannot be resolved'
+26 Nov 2019 6:51:13 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@19dcd0f
+26 Nov 2019 6:51:13 GMT:  Kind = ERROR
+26 Nov 2019 6:51:13 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 77 ColNo = 25 Msg = 'parent cannot be resolved to a variable'
+26 Nov 2019 6:51:13 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@9d7928
+26 Nov 2019 6:51:13 GMT:  Kind = ERROR
+26 Nov 2019 6:51:13 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 79 ColNo = 25 Msg = 'q cannot be resolved'
+26 Nov 2019 6:51:13 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1372566
+26 Nov 2019 6:51:13 GMT:  Kind = ERROR
+26 Nov 2019 6:51:13 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 84 ColNo = 27 Msg = 'v cannot be resolved to a variable'
+26 Nov 2019 6:51:20 GMT: diagnostics = javax.tools.DiagnosticCollector@ae1649
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@18ddb02
+fileObjects = [E:\cse221\lab\lab4\PrimMst.java]
+26 Nov 2019 6:51:20 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1b44fc6' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+26 Nov 2019 6:51:20 GMT: Compiler call returned
+26 Nov 2019 6:51:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1985c0b
+26 Nov 2019 6:51:20 GMT:  Kind = ERROR
+26 Nov 2019 6:51:20 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 88 ColNo = 1 Msg = 'Syntax error, insert "}" to complete ClassBody'
+26 Nov 2019 6:51:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5bbd3e
+26 Nov 2019 6:51:20 GMT:  Kind = WARNING
+26 Nov 2019 6:51:20 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 2 ColNo = 8 Msg = 'The import java.lang is never used'
+26 Nov 2019 6:51:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d64b41
+26 Nov 2019 6:51:20 GMT:  Kind = ERROR
+26 Nov 2019 6:51:20 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 53 ColNo = 6 Msg = 'q cannot be resolved'
+26 Nov 2019 6:51:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f16a73
+26 Nov 2019 6:51:20 GMT:  Kind = ERROR
+26 Nov 2019 6:51:20 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 56 ColNo = 6 Msg = 'q cannot be resolved'
+26 Nov 2019 6:51:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a1442
+26 Nov 2019 6:51:20 GMT:  Kind = ERROR
+26 Nov 2019 6:51:20 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 58 ColNo = 19 Msg = 'q cannot be resolved'
+26 Nov 2019 6:51:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f5fb72
+26 Nov 2019 6:51:20 GMT:  Kind = ERROR
+26 Nov 2019 6:51:20 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 60 ColNo = 30 Msg = 'q cannot be resolved'
+26 Nov 2019 6:51:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e82f8e
+26 Nov 2019 6:51:20 GMT:  Kind = ERROR
+26 Nov 2019 6:51:20 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 61 ColNo = 31 Msg = 'v cannot be resolved to a variable'
+26 Nov 2019 6:51:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d076d2
+26 Nov 2019 6:51:20 GMT:  Kind = ERROR
+26 Nov 2019 6:51:20 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 72 ColNo = 31 Msg = 'v cannot be resolved to a variable'
+26 Nov 2019 6:51:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3ad00e
+26 Nov 2019 6:51:20 GMT:  Kind = ERROR
+26 Nov 2019 6:51:20 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 75 ColNo = 24 Msg = 'q cannot be resolved'
+26 Nov 2019 6:51:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6485d0
+26 Nov 2019 6:51:20 GMT:  Kind = ERROR
+26 Nov 2019 6:51:20 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 77 ColNo = 25 Msg = 'parent cannot be resolved to a variable'
+26 Nov 2019 6:51:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ff50cd
+26 Nov 2019 6:51:20 GMT:  Kind = ERROR
+26 Nov 2019 6:51:20 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 79 ColNo = 25 Msg = 'q cannot be resolved'
+26 Nov 2019 6:51:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@cecfc6
+26 Nov 2019 6:51:20 GMT:  Kind = ERROR
+26 Nov 2019 6:51:20 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 84 ColNo = 27 Msg = 'v cannot be resolved to a variable'
+26 Nov 2019 6:52:09 GMT: diagnostics = javax.tools.DiagnosticCollector@78e79f
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@b2626
+fileObjects = [E:\cse221\lab\lab4\PrimMst.java]
+26 Nov 2019 6:52:09 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@5686de' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+26 Nov 2019 6:52:09 GMT: Compiler call returned
+26 Nov 2019 6:52:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1604f7f
+26 Nov 2019 6:52:09 GMT:  Kind = ERROR
+26 Nov 2019 6:52:09 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 89 ColNo = 1 Msg = 'Syntax error, insert "}" to complete ClassBody'
+26 Nov 2019 6:52:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1fd2694
+26 Nov 2019 6:52:09 GMT:  Kind = WARNING
+26 Nov 2019 6:52:09 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 2 ColNo = 8 Msg = 'The import java.lang is never used'
+26 Nov 2019 6:52:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@32727
+26 Nov 2019 6:52:09 GMT:  Kind = ERROR
+26 Nov 2019 6:52:09 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 54 ColNo = 6 Msg = 'Cannot make a static reference to the non-static field q'
+26 Nov 2019 6:52:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5c039e
+26 Nov 2019 6:52:09 GMT:  Kind = ERROR
+26 Nov 2019 6:52:09 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 57 ColNo = 6 Msg = 'Cannot make a static reference to the non-static field q'
+26 Nov 2019 6:52:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@134bb1d
+26 Nov 2019 6:52:09 GMT:  Kind = ERROR
+26 Nov 2019 6:52:09 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 59 ColNo = 19 Msg = 'Cannot make a static reference to the non-static field q'
+26 Nov 2019 6:52:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@157ee29
+26 Nov 2019 6:52:09 GMT:  Kind = ERROR
+26 Nov 2019 6:52:09 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 61 ColNo = 30 Msg = 'Cannot make a static reference to the non-static field q'
+26 Nov 2019 6:52:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@70c47b
+26 Nov 2019 6:52:09 GMT:  Kind = ERROR
+26 Nov 2019 6:52:09 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 62 ColNo = 31 Msg = 'v cannot be resolved to a variable'
+26 Nov 2019 6:52:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@727bd8
+26 Nov 2019 6:52:09 GMT:  Kind = ERROR
+26 Nov 2019 6:52:09 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 73 ColNo = 31 Msg = 'v cannot be resolved to a variable'
+26 Nov 2019 6:52:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@eac018
+26 Nov 2019 6:52:09 GMT:  Kind = ERROR
+26 Nov 2019 6:52:09 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 76 ColNo = 24 Msg = 'Cannot make a static reference to the non-static field q'
+26 Nov 2019 6:52:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@84a8a
+26 Nov 2019 6:52:09 GMT:  Kind = ERROR
+26 Nov 2019 6:52:09 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 78 ColNo = 25 Msg = 'parent cannot be resolved to a variable'
+26 Nov 2019 6:52:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@bb176c
+26 Nov 2019 6:52:09 GMT:  Kind = ERROR
+26 Nov 2019 6:52:09 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 80 ColNo = 25 Msg = 'Cannot make a static reference to the non-static field q'
+26 Nov 2019 6:52:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a00e98
+26 Nov 2019 6:52:09 GMT:  Kind = ERROR
+26 Nov 2019 6:52:09 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 85 ColNo = 27 Msg = 'v cannot be resolved to a variable'
+26 Nov 2019 6:52:26 GMT: diagnostics = javax.tools.DiagnosticCollector@1fb9720
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1b5a706
+fileObjects = [E:\cse221\lab\lab4\PrimMst.java]
+26 Nov 2019 6:52:26 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@32f0e3' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+26 Nov 2019 6:52:26 GMT: Compiler call returned
+26 Nov 2019 6:52:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f666b7
+26 Nov 2019 6:52:26 GMT:  Kind = ERROR
+26 Nov 2019 6:52:26 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 89 ColNo = 1 Msg = 'Syntax error, insert "}" to complete ClassBody'
+26 Nov 2019 6:52:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3a45c8
+26 Nov 2019 6:52:26 GMT:  Kind = WARNING
+26 Nov 2019 6:52:26 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 2 ColNo = 8 Msg = 'The import java.lang is never used'
+26 Nov 2019 6:52:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e2a73
+26 Nov 2019 6:52:26 GMT:  Kind = ERROR
+26 Nov 2019 6:52:26 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 62 ColNo = 31 Msg = 'v cannot be resolved to a variable'
+26 Nov 2019 6:52:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@48af80
+26 Nov 2019 6:52:26 GMT:  Kind = ERROR
+26 Nov 2019 6:52:26 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 73 ColNo = 31 Msg = 'v cannot be resolved to a variable'
+26 Nov 2019 6:52:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@41bca0
+26 Nov 2019 6:52:26 GMT:  Kind = ERROR
+26 Nov 2019 6:52:26 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 78 ColNo = 25 Msg = 'parent cannot be resolved to a variable'
+26 Nov 2019 6:52:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@21ba65
+26 Nov 2019 6:52:26 GMT:  Kind = ERROR
+26 Nov 2019 6:52:26 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 85 ColNo = 27 Msg = 'v cannot be resolved to a variable'
+26 Nov 2019 6:52:33 GMT: diagnostics = javax.tools.DiagnosticCollector@17703a9
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@eb4ea5
+fileObjects = [E:\cse221\lab\lab4\PrimMst.java]
+26 Nov 2019 6:52:33 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@dca3da' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+26 Nov 2019 6:52:33 GMT: Compiler call returned
+26 Nov 2019 6:52:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1918713
+26 Nov 2019 6:52:33 GMT:  Kind = ERROR
+26 Nov 2019 6:52:33 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 89 ColNo = 1 Msg = 'Syntax error, insert "}" to complete ClassBody'
+26 Nov 2019 6:52:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4b5497
+26 Nov 2019 6:52:33 GMT:  Kind = WARNING
+26 Nov 2019 6:52:33 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 2 ColNo = 8 Msg = 'The import java.lang is never used'
+26 Nov 2019 6:52:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ede3ae
+26 Nov 2019 6:52:33 GMT:  Kind = ERROR
+26 Nov 2019 6:52:33 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 73 ColNo = 31 Msg = 'v cannot be resolved to a variable'
+26 Nov 2019 6:52:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1590d65
+26 Nov 2019 6:52:33 GMT:  Kind = ERROR
+26 Nov 2019 6:52:33 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 78 ColNo = 25 Msg = 'parent cannot be resolved to a variable'
+26 Nov 2019 6:52:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@97bec2
+26 Nov 2019 6:52:33 GMT:  Kind = ERROR
+26 Nov 2019 6:52:33 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 85 ColNo = 27 Msg = 'v cannot be resolved to a variable'
+26 Nov 2019 6:52:41 GMT: diagnostics = javax.tools.DiagnosticCollector@48e6e5
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@58b4d
+fileObjects = [E:\cse221\lab\lab4\PrimMst.java]
+26 Nov 2019 6:52:41 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1c7b891' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+26 Nov 2019 6:52:41 GMT: Compiler call returned
+26 Nov 2019 6:52:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a01723
+26 Nov 2019 6:52:41 GMT:  Kind = ERROR
+26 Nov 2019 6:52:41 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 89 ColNo = 1 Msg = 'Syntax error, insert "}" to complete ClassBody'
+26 Nov 2019 6:52:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d98e27
+26 Nov 2019 6:52:41 GMT:  Kind = WARNING
+26 Nov 2019 6:52:41 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 2 ColNo = 8 Msg = 'The import java.lang is never used'
+26 Nov 2019 6:52:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@110d4ab
+26 Nov 2019 6:52:41 GMT:  Kind = ERROR
+26 Nov 2019 6:52:41 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 78 ColNo = 25 Msg = 'parent cannot be resolved to a variable'
+26 Nov 2019 6:52:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c489d1
+26 Nov 2019 6:52:41 GMT:  Kind = ERROR
+26 Nov 2019 6:52:41 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 85 ColNo = 27 Msg = 'v cannot be resolved to a variable'
+26 Nov 2019 6:52:51 GMT: diagnostics = javax.tools.DiagnosticCollector@1bc3974
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@2739e2
+fileObjects = [E:\cse221\lab\lab4\PrimMst.java]
+26 Nov 2019 6:52:51 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@d5a05f' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+26 Nov 2019 6:52:51 GMT: Compiler call returned
+26 Nov 2019 6:52:51 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d2ea62
+26 Nov 2019 6:52:51 GMT:  Kind = ERROR
+26 Nov 2019 6:52:51 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 89 ColNo = 1 Msg = 'Syntax error, insert "}" to complete ClassBody'
+26 Nov 2019 6:52:51 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@23aa09
+26 Nov 2019 6:52:51 GMT:  Kind = WARNING
+26 Nov 2019 6:52:51 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 2 ColNo = 8 Msg = 'The import java.lang is never used'
+26 Nov 2019 6:52:51 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@91ffdd
+26 Nov 2019 6:52:51 GMT:  Kind = ERROR
+26 Nov 2019 6:52:51 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 85 ColNo = 27 Msg = 'v cannot be resolved to a variable'
+26 Nov 2019 6:52:57 GMT: diagnostics = javax.tools.DiagnosticCollector@fa23d9
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1c34728
+fileObjects = [E:\cse221\lab\lab4\PrimMst.java]
+26 Nov 2019 6:52:57 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1138418' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+26 Nov 2019 6:52:57 GMT: Compiler call returned
+26 Nov 2019 6:52:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@151f7fe
+26 Nov 2019 6:52:57 GMT:  Kind = ERROR
+26 Nov 2019 6:52:57 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 89 ColNo = 1 Msg = 'Syntax error, insert "}" to complete ClassBody'
+26 Nov 2019 6:52:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@12273b6
+26 Nov 2019 6:52:57 GMT:  Kind = WARNING
+26 Nov 2019 6:52:57 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 2 ColNo = 8 Msg = 'The import java.lang is never used'
+26 Nov 2019 6:53:16 GMT: diagnostics = javax.tools.DiagnosticCollector@1640909
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1486e98
+fileObjects = [E:\cse221\lab\lab4\PrimMst.java]
+26 Nov 2019 6:53:16 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@19ab78d' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+26 Nov 2019 6:53:16 GMT: Compiler call returned
+26 Nov 2019 6:53:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17f90de
+26 Nov 2019 6:53:16 GMT:  Kind = WARNING
+26 Nov 2019 6:53:16 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 2 ColNo = 8 Msg = 'The import java.lang is never used'
+26 Nov 2019 6:55:46 GMT: diagnostics = javax.tools.DiagnosticCollector@311e45
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1f2dfd2
+fileObjects = [E:\cse221\lab\lab4\PrimMst.java]
+26 Nov 2019 6:55:46 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@d26ea9' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+26 Nov 2019 6:55:46 GMT: Compiler call returned
+26 Nov 2019 6:55:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b775fc
+26 Nov 2019 6:55:46 GMT:  Kind = ERROR
+26 Nov 2019 6:55:46 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 87 ColNo = 5 Msg = 'Syntax error, insert "}" to complete ClassBody'
+26 Nov 2019 6:55:56 GMT: diagnostics = javax.tools.DiagnosticCollector@14736f8
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@fca4ed
+fileObjects = [E:\cse221\lab\lab4\PrimMst.java]
+26 Nov 2019 6:55:56 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@60c236' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+26 Nov 2019 6:55:56 GMT: Compiler call returned
+26 Nov 2019 6:55:56 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@18b67fb
+26 Nov 2019 6:55:56 GMT:  Kind = WARNING
+26 Nov 2019 6:55:56 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 9 ColNo = 13 Msg = 'The value of the local variable r is not used'
+26 Nov 2019 6:55:56 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@82dd86
+26 Nov 2019 6:55:56 GMT:  Kind = WARNING
+26 Nov 2019 6:55:56 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 11 ColNo = 13 Msg = 'The value of the local variable weight is not used'
+26 Nov 2019 6:59:14 GMT: diagnostics = javax.tools.DiagnosticCollector@333230
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1d85872
+fileObjects = [E:\cse221\lab\lab4\PrimMst.java]
+26 Nov 2019 6:59:14 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@ed9d91' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+26 Nov 2019 6:59:14 GMT: Compiler call returned
+26 Nov 2019 6:59:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@40b276
+26 Nov 2019 6:59:14 GMT:  Kind = ERROR
+26 Nov 2019 6:59:14 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 61 ColNo = 38 Msg = 'removedmin_key cannot be resolved to a variable'
+26 Nov 2019 6:59:21 GMT: diagnostics = javax.tools.DiagnosticCollector@11a78fe
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@b49dda
+fileObjects = [E:\cse221\lab\lab4\PrimMst.java]
+26 Nov 2019 6:59:21 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@740f2c' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+26 Nov 2019 6:59:21 GMT: Compiler call returned
+26 Nov 2019 6:59:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1703b8c
+26 Nov 2019 6:59:21 GMT:  Kind = WARNING
+26 Nov 2019 6:59:21 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 9 ColNo = 13 Msg = 'The value of the local variable r is not used'
+26 Nov 2019 6:59:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c95e77
+26 Nov 2019 6:59:21 GMT:  Kind = WARNING
+26 Nov 2019 6:59:21 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 11 ColNo = 13 Msg = 'The value of the local variable weight is not used'
+26 Nov 2019 6:59:40 GMT: diagnostics = javax.tools.DiagnosticCollector@4d61a4
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1df1404
+fileObjects = [E:\cse221\lab\lab4\PrimMst.java]
+26 Nov 2019 6:59:40 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1d0e4e1' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+26 Nov 2019 6:59:41 GMT: Compiler call returned
+26 Nov 2019 6:59:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@60a910
+26 Nov 2019 6:59:41 GMT:  Kind = WARNING
+26 Nov 2019 6:59:41 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 9 ColNo = 13 Msg = 'The value of the local variable r is not used'
+26 Nov 2019 6:59:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@8f265a
+26 Nov 2019 6:59:41 GMT:  Kind = WARNING
+26 Nov 2019 6:59:41 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 11 ColNo = 13 Msg = 'The value of the local variable weight is not used'
+26 Nov 2019 7:01:20 GMT: diagnostics = javax.tools.DiagnosticCollector@8a2ebc
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@183334
+fileObjects = [E:\cse221\lab\lab1\CreateGraph.java, E:\cse221\lab\lab4\PrimMst.java]
+26 Nov 2019 7:01:20 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@4a301' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab1;E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+26 Nov 2019 7:01:21 GMT: Compiler call returned
+26 Nov 2019 7:01:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b5227
+26 Nov 2019 7:01:21 GMT:  Kind = ERROR
+26 Nov 2019 7:01:21 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 78 ColNo = 9 Msg = 'Syntax error on token "catch", Identifier expected'
+26 Nov 2019 7:01:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3926d8
+26 Nov 2019 7:01:21 GMT:  Kind = ERROR
+26 Nov 2019 7:01:21 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 83 ColNo = 1 Msg = 'Syntax error on token "}", delete this token'
+26 Nov 2019 7:01:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d89969
+26 Nov 2019 7:01:21 GMT:  Kind = WARNING
+26 Nov 2019 7:01:21 GMT: Name = E:\cse221\lab\lab1\CreateGraph.java LineNo = 36 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+26 Nov 2019 7:01:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e53280
+26 Nov 2019 7:01:21 GMT:  Kind = ERROR
+26 Nov 2019 7:01:21 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 37 ColNo = 13 Msg = 'Syntax error, insert "Finally" to complete TryStatement'
+26 Nov 2019 7:01:32 GMT: diagnostics = javax.tools.DiagnosticCollector@1a043d0
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@154a240
+fileObjects = [E:\cse221\lab\lab1\CreateGraph.java, E:\cse221\lab\lab4\PrimMst.java]
+26 Nov 2019 7:01:32 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1802b3f' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab1;E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+26 Nov 2019 7:01:32 GMT: Compiler call returned
+26 Nov 2019 7:01:32 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@15a0953
+26 Nov 2019 7:01:32 GMT:  Kind = WARNING
+26 Nov 2019 7:01:32 GMT: Name = E:\cse221\lab\lab1\CreateGraph.java LineNo = 36 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+26 Nov 2019 7:01:32 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e8b90f
+26 Nov 2019 7:01:32 GMT:  Kind = WARNING
+26 Nov 2019 7:01:32 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 9 ColNo = 13 Msg = 'The value of the local variable r is not used'
+26 Nov 2019 7:01:32 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a6057a
+26 Nov 2019 7:01:32 GMT:  Kind = WARNING
+26 Nov 2019 7:01:32 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 11 ColNo = 13 Msg = 'The value of the local variable weight is not used'
+26 Nov 2019 7:01:49 GMT: diagnostics = javax.tools.DiagnosticCollector@dae5e6
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@348873
+fileObjects = [E:\cse221\lab\lab1\CreateGraph.java, E:\cse221\lab\lab4\PrimMst.java]
+26 Nov 2019 7:01:49 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@64b910' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab1;E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+26 Nov 2019 7:01:49 GMT: Compiler call returned
+26 Nov 2019 7:01:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d293d6
+26 Nov 2019 7:01:49 GMT:  Kind = WARNING
+26 Nov 2019 7:01:49 GMT: Name = E:\cse221\lab\lab1\CreateGraph.java LineNo = 36 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+26 Nov 2019 7:01:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@16e16ce
+26 Nov 2019 7:01:49 GMT:  Kind = WARNING
+26 Nov 2019 7:01:49 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 9 ColNo = 13 Msg = 'The value of the local variable r is not used'
+26 Nov 2019 7:01:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1549871
+26 Nov 2019 7:01:49 GMT:  Kind = WARNING
+26 Nov 2019 7:01:49 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 11 ColNo = 13 Msg = 'The value of the local variable weight is not used'
+26 Nov 2019 7:02:14 GMT: diagnostics = javax.tools.DiagnosticCollector@144d877
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@111ea87
+fileObjects = [E:\cse221\lab\lab1\CreateGraph.java, E:\cse221\lab\lab4\PrimMst.java]
+26 Nov 2019 7:02:14 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@757a0' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab1;E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+26 Nov 2019 7:02:14 GMT: Compiler call returned
+26 Nov 2019 7:02:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@964dc9
+26 Nov 2019 7:02:14 GMT:  Kind = WARNING
+26 Nov 2019 7:02:14 GMT: Name = E:\cse221\lab\lab1\CreateGraph.java LineNo = 36 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+26 Nov 2019 7:02:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@630370
+26 Nov 2019 7:02:14 GMT:  Kind = WARNING
+26 Nov 2019 7:02:14 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 9 ColNo = 13 Msg = 'The value of the local variable r is not used'
+26 Nov 2019 7:02:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6b489b
+26 Nov 2019 7:02:14 GMT:  Kind = WARNING
+26 Nov 2019 7:02:14 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 11 ColNo = 13 Msg = 'The value of the local variable weight is not used'
+26 Nov 2019 7:03:04 GMT: diagnostics = javax.tools.DiagnosticCollector@ba04b4
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@159f79a
+fileObjects = [E:\cse221\lab\lab1\CreateGraph.java, E:\cse221\lab\lab4\PrimMst.java]
+26 Nov 2019 7:03:04 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1fbde03' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab1;E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+26 Nov 2019 7:03:04 GMT: Compiler call returned
+26 Nov 2019 7:03:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f70ff3
+26 Nov 2019 7:03:04 GMT:  Kind = WARNING
+26 Nov 2019 7:03:04 GMT: Name = E:\cse221\lab\lab1\CreateGraph.java LineNo = 36 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+26 Nov 2019 7:03:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b28dc2
+26 Nov 2019 7:03:04 GMT:  Kind = ERROR
+26 Nov 2019 7:03:04 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 20 ColNo = 24 Msg = 'The method printin() is undefined for the type java.io.PrintStream'
+26 Nov 2019 7:03:10 GMT: diagnostics = javax.tools.DiagnosticCollector@c261dc
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@c9ae9c
+fileObjects = [E:\cse221\lab\lab1\CreateGraph.java, E:\cse221\lab\lab4\PrimMst.java]
+26 Nov 2019 7:03:10 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@38b0d0' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab1;E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+26 Nov 2019 7:03:10 GMT: Compiler call returned
+26 Nov 2019 7:03:10 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5d5991
+26 Nov 2019 7:03:10 GMT:  Kind = WARNING
+26 Nov 2019 7:03:10 GMT: Name = E:\cse221\lab\lab1\CreateGraph.java LineNo = 36 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+26 Nov 2019 7:03:10 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@163243d
+26 Nov 2019 7:03:10 GMT:  Kind = WARNING
+26 Nov 2019 7:03:10 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 9 ColNo = 13 Msg = 'The value of the local variable r is not used'
+26 Nov 2019 7:03:10 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3bb1da
+26 Nov 2019 7:03:10 GMT:  Kind = WARNING
+26 Nov 2019 7:03:10 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 11 ColNo = 13 Msg = 'The value of the local variable weight is not used'
+26 Nov 2019 7:04:05 GMT: diagnostics = javax.tools.DiagnosticCollector@1de2597
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1af659
+fileObjects = [E:\cse221\lab\lab1\CreateGraph.java, E:\cse221\lab\lab4\PrimMst.java]
+26 Nov 2019 7:04:05 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@c0264e' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab1;E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+26 Nov 2019 7:04:05 GMT: Compiler call returned
+26 Nov 2019 7:04:05 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@150d3
+26 Nov 2019 7:04:05 GMT:  Kind = WARNING
+26 Nov 2019 7:04:05 GMT: Name = E:\cse221\lab\lab1\CreateGraph.java LineNo = 36 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+26 Nov 2019 7:04:05 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c62585
+26 Nov 2019 7:04:05 GMT:  Kind = WARNING
+26 Nov 2019 7:04:05 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 9 ColNo = 13 Msg = 'The value of the local variable r is not used'
+26 Nov 2019 7:06:58 GMT: diagnostics = javax.tools.DiagnosticCollector@128d822
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@11481b2
+fileObjects = [E:\cse221\lab\lab1\CreateGraph.java, E:\cse221\lab\lab4\PrimMst.java]
+26 Nov 2019 7:06:58 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@32355a' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab1;E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+26 Nov 2019 7:06:58 GMT: Compiler call returned
+26 Nov 2019 7:06:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@651333
+26 Nov 2019 7:06:58 GMT:  Kind = WARNING
+26 Nov 2019 7:06:58 GMT: Name = E:\cse221\lab\lab1\CreateGraph.java LineNo = 36 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+26 Nov 2019 7:06:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@170e41d
+26 Nov 2019 7:06:58 GMT:  Kind = WARNING
+26 Nov 2019 7:06:58 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 9 ColNo = 13 Msg = 'The value of the local variable r is not used'
+26 Nov 2019 7:10:20 GMT: diagnostics = javax.tools.DiagnosticCollector@1b82cf9
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@14686db
+fileObjects = [E:\cse221\lab\lab1\CreateGraph.java, E:\cse221\lab\lab4\PrimMst.java]
+26 Nov 2019 7:10:20 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@87daf3' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab1;E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+26 Nov 2019 7:10:21 GMT: Compiler call returned
+26 Nov 2019 7:10:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6a3416
+26 Nov 2019 7:10:21 GMT:  Kind = WARNING
+26 Nov 2019 7:10:21 GMT: Name = E:\cse221\lab\lab1\CreateGraph.java LineNo = 36 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+26 Nov 2019 7:10:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f15661
+26 Nov 2019 7:10:21 GMT:  Kind = WARNING
+26 Nov 2019 7:10:21 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 9 ColNo = 13 Msg = 'The value of the local variable r is not used'
+26 Nov 2019 7:18:26 GMT: diagnostics = javax.tools.DiagnosticCollector@87b6a8
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@35b159
+fileObjects = [E:\cse221\lab\lab1\CreateGraph.java, E:\cse221\lab\lab4\PrimMst.java]
+26 Nov 2019 7:18:26 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@974e25' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab1;E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+26 Nov 2019 7:18:26 GMT: Compiler call returned
+26 Nov 2019 7:18:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1305960
+26 Nov 2019 7:18:26 GMT:  Kind = WARNING
+26 Nov 2019 7:18:26 GMT: Name = E:\cse221\lab\lab1\CreateGraph.java LineNo = 36 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+26 Nov 2019 7:18:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d51476
+26 Nov 2019 7:18:26 GMT:  Kind = WARNING
+26 Nov 2019 7:18:26 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 9 ColNo = 13 Msg = 'The value of the local variable r is not used'
+26 Nov 2019 7:18:48 GMT: diagnostics = javax.tools.DiagnosticCollector@1cafb75
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@8b37d5
+fileObjects = [E:\cse221\lab\lab1\CreateGraph.java, E:\cse221\lab\lab4\PrimMst.java]
+26 Nov 2019 7:18:48 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1c7ed7b' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab1;E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+26 Nov 2019 7:18:48 GMT: Compiler call returned
+26 Nov 2019 7:18:48 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@9df303
+26 Nov 2019 7:18:48 GMT:  Kind = WARNING
+26 Nov 2019 7:18:48 GMT: Name = E:\cse221\lab\lab1\CreateGraph.java LineNo = 36 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+26 Nov 2019 7:18:48 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@fc4ab8
+26 Nov 2019 7:18:48 GMT:  Kind = WARNING
+26 Nov 2019 7:18:48 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 9 ColNo = 13 Msg = 'The value of the local variable r is not used'
+26 Nov 2019 7:39:44 GMT: diagnostics = javax.tools.DiagnosticCollector@1bf555c
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@c89d0c
+fileObjects = [E:\cse221\lab\lab1\CreateGraph.java, E:\cse221\lab\lab4\PrimMst.java, E:\cse221\lab\lab4\Dijkstra.java]
+26 Nov 2019 7:39:44 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@117c103' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab1;E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+26 Nov 2019 7:39:44 GMT: Compiler call returned
+26 Nov 2019 7:39:44 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c415f6
+26 Nov 2019 7:39:44 GMT:  Kind = WARNING
+26 Nov 2019 7:39:44 GMT: Name = E:\cse221\lab\lab1\CreateGraph.java LineNo = 36 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+26 Nov 2019 7:39:44 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@87ac3
+26 Nov 2019 7:39:44 GMT:  Kind = WARNING
+26 Nov 2019 7:39:44 GMT: Name = E:\cse221\lab\lab4\PrimMst.java LineNo = 9 ColNo = 13 Msg = 'The value of the local variable r is not used'
+26 Nov 2019 7:39:44 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ca598
+26 Nov 2019 7:39:44 GMT:  Kind = WARNING
+26 Nov 2019 7:39:44 GMT: Name = E:\cse221\lab\lab4\Dijkstra.java LineNo = 9 ColNo = 13 Msg = 'The value of the local variable r is not used'
+27 Nov 2019 1:02:23 GMT: Log 'EclipseCompiler.txt' opened: 27 Nov 2019 1:02:23 GMT with name E:\cse221\lab\lab4\EclipseCompiler.txt
+27 Nov 2019 1:11:28 GMT: diagnostics = javax.tools.DiagnosticCollector@2e6258
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@198b888
+fileObjects = [E:\cse221\lab\lab4\Dijkstra.java]
+27 Nov 2019 1:11:28 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@58decf' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+27 Nov 2019 1:11:29 GMT: Compiler call returned
+27 Nov 2019 1:11:29 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d83d7f
+27 Nov 2019 1:11:29 GMT:  Kind = WARNING
+27 Nov 2019 1:11:29 GMT: Name = E:\cse221\lab\lab4\Dijkstra.java LineNo = 9 ColNo = 13 Msg = 'The value of the local variable r is not used'
+27 Nov 2019 1:54:34 GMT: diagnostics = javax.tools.DiagnosticCollector@15d085d
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@17f7f1a
+fileObjects = [E:\cse221\lab\lab4\Dijkstra.java]
+27 Nov 2019 1:54:34 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@177b5ff' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+27 Nov 2019 1:54:34 GMT: Compiler call returned
+27 Nov 2019 1:54:34 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@10b1913
+27 Nov 2019 1:54:34 GMT:  Kind = WARNING
+27 Nov 2019 1:54:34 GMT: Name = E:\cse221\lab\lab4\Dijkstra.java LineNo = 9 ColNo = 13 Msg = 'The value of the local variable r is not used'
+27 Nov 2019 1:59:03 GMT: diagnostics = javax.tools.DiagnosticCollector@10430a5
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@e20b8
+fileObjects = [E:\cse221\lab\lab4\Dijkstra.java]
+27 Nov 2019 1:59:03 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@12ea447' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+27 Nov 2019 1:59:03 GMT: Compiler call returned
+27 Nov 2019 1:59:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1648c64
+27 Nov 2019 1:59:03 GMT:  Kind = WARNING
+27 Nov 2019 1:59:03 GMT: Name = E:\cse221\lab\lab4\Dijkstra.java LineNo = 9 ColNo = 13 Msg = 'The value of the local variable r is not used'
+27 Nov 2019 2:07:16 GMT: diagnostics = javax.tools.DiagnosticCollector@921482
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@102db41
+fileObjects = [E:\cse221\lab\lab4\Dijkstra.java]
+27 Nov 2019 2:07:16 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@b820ad' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+27 Nov 2019 2:07:16 GMT: Compiler call returned
+27 Nov 2019 2:07:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d116d8
+27 Nov 2019 2:07:16 GMT:  Kind = WARNING
+27 Nov 2019 2:07:16 GMT: Name = E:\cse221\lab\lab4\Dijkstra.java LineNo = 9 ColNo = 13 Msg = 'The value of the local variable r is not used'
+27 Nov 2019 2:08:50 GMT: diagnostics = javax.tools.DiagnosticCollector@738b3a
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1a017e0
+fileObjects = [E:\cse221\lab\lab4\Dijkstra.java, E:\cse221\lab\Dijkstra1.java]
+27 Nov 2019 2:08:50 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@500b55' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab4;E:\cse221\lab;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+27 Nov 2019 2:08:51 GMT: Compiler call returned
+27 Nov 2019 2:08:51 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e4cfd
+27 Nov 2019 2:08:51 GMT:  Kind = WARNING
+27 Nov 2019 2:08:51 GMT: Name = E:\cse221\lab\lab4\Dijkstra.java LineNo = 9 ColNo = 13 Msg = 'The value of the local variable r is not used'
+27 Nov 2019 2:08:51 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5ec89a
+27 Nov 2019 2:08:51 GMT:  Kind = WARNING
+27 Nov 2019 2:08:51 GMT: Name = E:\cse221\lab\Dijkstra1.java LineNo = 9 ColNo = 13 Msg = 'The value of the local variable r is not used'
+27 Nov 2019 2:08:51 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13c9074
+27 Nov 2019 2:08:51 GMT:  Kind = WARNING
+27 Nov 2019 2:08:51 GMT: Name = E:\cse221\lab\Dijkstra1.java LineNo = 11 ColNo = 13 Msg = 'The value of the local variable weight is not used'
+27 Nov 2019 2:16:00 GMT: diagnostics = javax.tools.DiagnosticCollector@ba1e24
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@804890
+fileObjects = [E:\cse221\lab\lab4\Dijkstra.java, E:\cse221\lab\Dijkstra1.java]
+27 Nov 2019 2:16:00 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1c53d64' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab4;E:\cse221\lab;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+27 Nov 2019 2:16:00 GMT: Compiler call returned
+27 Nov 2019 2:16:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@85b5b5
+27 Nov 2019 2:16:00 GMT:  Kind = WARNING
+27 Nov 2019 2:16:00 GMT: Name = E:\cse221\lab\lab4\Dijkstra.java LineNo = 9 ColNo = 13 Msg = 'The value of the local variable r is not used'
+27 Nov 2019 2:16:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@414049
+27 Nov 2019 2:16:00 GMT:  Kind = WARNING
+27 Nov 2019 2:16:00 GMT: Name = E:\cse221\lab\Dijkstra1.java LineNo = 9 ColNo = 13 Msg = 'The value of the local variable r is not used'
+27 Nov 2019 2:16:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@19c3b68
+27 Nov 2019 2:16:00 GMT:  Kind = WARNING
+27 Nov 2019 2:16:00 GMT: Name = E:\cse221\lab\Dijkstra1.java LineNo = 11 ColNo = 13 Msg = 'The value of the local variable weight is not used'
+27 Nov 2019 2:21:04 GMT: diagnostics = javax.tools.DiagnosticCollector@e81154
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@68f1f5
+fileObjects = [E:\cse221\lab\lab4\Dijkstra.java, E:\cse221\lab\Dijkstra1.java]
+27 Nov 2019 2:21:04 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@f4b551' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab4;E:\cse221\lab;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+27 Nov 2019 2:21:04 GMT: Compiler call returned
+27 Nov 2019 2:21:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e5a4c0
+27 Nov 2019 2:21:04 GMT:  Kind = WARNING
+27 Nov 2019 2:21:04 GMT: Name = E:\cse221\lab\lab4\Dijkstra.java LineNo = 9 ColNo = 13 Msg = 'The value of the local variable r is not used'
+27 Nov 2019 2:21:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@12917be
+27 Nov 2019 2:21:04 GMT:  Kind = WARNING
+27 Nov 2019 2:21:04 GMT: Name = E:\cse221\lab\Dijkstra1.java LineNo = 9 ColNo = 13 Msg = 'The value of the local variable r is not used'
+27 Nov 2019 2:21:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@150648
+27 Nov 2019 2:21:04 GMT:  Kind = WARNING
+27 Nov 2019 2:21:04 GMT: Name = E:\cse221\lab\Dijkstra1.java LineNo = 11 ColNo = 13 Msg = 'The value of the local variable weight is not used'
+27 Nov 2019 2:21:46 GMT: diagnostics = javax.tools.DiagnosticCollector@1082994
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1e62b29
+fileObjects = [E:\cse221\lab\lab4\Dijkstra.java, E:\cse221\lab\Dijkstra1.java]
+27 Nov 2019 2:21:46 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@14755ff' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab4;E:\cse221\lab;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+27 Nov 2019 2:21:46 GMT: Compiler call returned
+27 Nov 2019 2:21:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@636c91
+27 Nov 2019 2:21:46 GMT:  Kind = WARNING
+27 Nov 2019 2:21:46 GMT: Name = E:\cse221\lab\lab4\Dijkstra.java LineNo = 9 ColNo = 13 Msg = 'The value of the local variable r is not used'
+27 Nov 2019 2:21:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1818b7
+27 Nov 2019 2:21:46 GMT:  Kind = WARNING
+27 Nov 2019 2:21:46 GMT: Name = E:\cse221\lab\Dijkstra1.java LineNo = 9 ColNo = 13 Msg = 'The value of the local variable r is not used'
+27 Nov 2019 2:21:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@51cdec
+27 Nov 2019 2:21:46 GMT:  Kind = WARNING
+27 Nov 2019 2:21:46 GMT: Name = E:\cse221\lab\Dijkstra1.java LineNo = 11 ColNo = 13 Msg = 'The value of the local variable weight is not used'
+27 Nov 2019 2:26:58 GMT: diagnostics = javax.tools.DiagnosticCollector@f53dba
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@ae0256
+fileObjects = [E:\cse221\lab\Dijkstra1.java, E:\cse221\lab\lab4\Dijkstra.java]
+27 Nov 2019 2:26:58 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@3788bd' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab;E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+27 Nov 2019 2:26:58 GMT: Compiler call returned
+27 Nov 2019 2:26:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@18279f9
+27 Nov 2019 2:26:58 GMT:  Kind = WARNING
+27 Nov 2019 2:26:58 GMT: Name = E:\cse221\lab\Dijkstra1.java LineNo = 9 ColNo = 13 Msg = 'The value of the local variable r is not used'
+27 Nov 2019 2:26:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17826e9
+27 Nov 2019 2:26:58 GMT:  Kind = WARNING
+27 Nov 2019 2:26:58 GMT: Name = E:\cse221\lab\Dijkstra1.java LineNo = 11 ColNo = 13 Msg = 'The value of the local variable weight is not used'
+27 Nov 2019 2:26:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e7179
+27 Nov 2019 2:26:58 GMT:  Kind = ERROR
+27 Nov 2019 2:26:58 GMT: Name = E:\cse221\lab\lab4\Dijkstra.java LineNo = 70 ColNo = 50 Msg = 'parents cannot be resolved to a variable'
+27 Nov 2019 2:27:04 GMT: diagnostics = javax.tools.DiagnosticCollector@1d722ec
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1c8752a
+fileObjects = [E:\cse221\lab\Dijkstra1.java, E:\cse221\lab\lab4\Dijkstra.java]
+27 Nov 2019 2:27:04 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@76d7dc' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab;E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+27 Nov 2019 2:27:04 GMT: Compiler call returned
+27 Nov 2019 2:27:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@15a25c6
+27 Nov 2019 2:27:04 GMT:  Kind = WARNING
+27 Nov 2019 2:27:04 GMT: Name = E:\cse221\lab\Dijkstra1.java LineNo = 9 ColNo = 13 Msg = 'The value of the local variable r is not used'
+27 Nov 2019 2:27:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@16f89d3
+27 Nov 2019 2:27:04 GMT:  Kind = WARNING
+27 Nov 2019 2:27:04 GMT: Name = E:\cse221\lab\Dijkstra1.java LineNo = 11 ColNo = 13 Msg = 'The value of the local variable weight is not used'
+27 Nov 2019 2:27:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@745c1f
+27 Nov 2019 2:27:04 GMT:  Kind = WARNING
+27 Nov 2019 2:27:04 GMT: Name = E:\cse221\lab\lab4\Dijkstra.java LineNo = 9 ColNo = 13 Msg = 'The value of the local variable r is not used'
+27 Nov 2019 2:29:08 GMT: diagnostics = javax.tools.DiagnosticCollector@1a0fb9d
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@e49050
+fileObjects = [E:\cse221\lab\Dijkstra1.java, E:\cse221\lab\lab4\Dijkstra.java]
+27 Nov 2019 2:29:08 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@cdc59e' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab;E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+27 Nov 2019 2:29:08 GMT: Compiler call returned
+27 Nov 2019 2:29:08 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d7eedb
+27 Nov 2019 2:29:08 GMT:  Kind = WARNING
+27 Nov 2019 2:29:08 GMT: Name = E:\cse221\lab\Dijkstra1.java LineNo = 9 ColNo = 13 Msg = 'The value of the local variable r is not used'
+27 Nov 2019 2:29:08 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1de3946
+27 Nov 2019 2:29:08 GMT:  Kind = WARNING
+27 Nov 2019 2:29:08 GMT: Name = E:\cse221\lab\Dijkstra1.java LineNo = 11 ColNo = 13 Msg = 'The value of the local variable weight is not used'
+27 Nov 2019 2:29:08 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17bed0a
+27 Nov 2019 2:29:08 GMT:  Kind = WARNING
+27 Nov 2019 2:29:08 GMT: Name = E:\cse221\lab\lab4\Dijkstra.java LineNo = 9 ColNo = 13 Msg = 'The value of the local variable r is not used'
+27 Nov 2019 2:29:41 GMT: diagnostics = javax.tools.DiagnosticCollector@617e6a
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1a40496
+fileObjects = [E:\cse221\lab\Dijkstra1.java, E:\cse221\lab\lab4\Dijkstra.java]
+27 Nov 2019 2:29:41 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@7d4541' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab;E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+27 Nov 2019 2:29:41 GMT: Compiler call returned
+27 Nov 2019 2:29:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17063
+27 Nov 2019 2:29:41 GMT:  Kind = WARNING
+27 Nov 2019 2:29:41 GMT: Name = E:\cse221\lab\Dijkstra1.java LineNo = 9 ColNo = 13 Msg = 'The value of the local variable r is not used'
+27 Nov 2019 2:29:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1fa9a50
+27 Nov 2019 2:29:41 GMT:  Kind = WARNING
+27 Nov 2019 2:29:41 GMT: Name = E:\cse221\lab\Dijkstra1.java LineNo = 11 ColNo = 13 Msg = 'The value of the local variable weight is not used'
+27 Nov 2019 2:29:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@171437
+27 Nov 2019 2:29:41 GMT:  Kind = WARNING
+27 Nov 2019 2:29:41 GMT: Name = E:\cse221\lab\lab4\Dijkstra.java LineNo = 9 ColNo = 13 Msg = 'The value of the local variable r is not used'
+27 Nov 2019 2:29:57 GMT: diagnostics = javax.tools.DiagnosticCollector@6dea0
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@ba0dfb
+fileObjects = [E:\cse221\lab\Dijkstra1.java, E:\cse221\lab\lab4\Dijkstra.java]
+27 Nov 2019 2:29:57 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@141224d' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab;E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+27 Nov 2019 2:29:57 GMT: Compiler call returned
+27 Nov 2019 2:29:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1506e98
+27 Nov 2019 2:29:57 GMT:  Kind = WARNING
+27 Nov 2019 2:29:57 GMT: Name = E:\cse221\lab\Dijkstra1.java LineNo = 9 ColNo = 13 Msg = 'The value of the local variable r is not used'
+27 Nov 2019 2:29:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f17f1f
+27 Nov 2019 2:29:57 GMT:  Kind = WARNING
+27 Nov 2019 2:29:57 GMT: Name = E:\cse221\lab\Dijkstra1.java LineNo = 11 ColNo = 13 Msg = 'The value of the local variable weight is not used'
+27 Nov 2019 2:29:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c09b27
+27 Nov 2019 2:29:57 GMT:  Kind = WARNING
+27 Nov 2019 2:29:57 GMT: Name = E:\cse221\lab\lab4\Dijkstra.java LineNo = 9 ColNo = 13 Msg = 'The value of the local variable r is not used'
+27 Nov 2019 2:30:15 GMT: diagnostics = javax.tools.DiagnosticCollector@1f8ee7f
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@67b172
+fileObjects = [E:\cse221\lab\Dijkstra1.java, E:\cse221\lab\lab4\Dijkstra.java]
+27 Nov 2019 2:30:15 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1ac428e' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab;E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+27 Nov 2019 2:30:15 GMT: Compiler call returned
+27 Nov 2019 2:30:15 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@175003b
+27 Nov 2019 2:30:15 GMT:  Kind = WARNING
+27 Nov 2019 2:30:15 GMT: Name = E:\cse221\lab\Dijkstra1.java LineNo = 9 ColNo = 13 Msg = 'The value of the local variable r is not used'
+27 Nov 2019 2:30:15 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@15c4001
+27 Nov 2019 2:30:15 GMT:  Kind = WARNING
+27 Nov 2019 2:30:15 GMT: Name = E:\cse221\lab\Dijkstra1.java LineNo = 11 ColNo = 13 Msg = 'The value of the local variable weight is not used'
+27 Nov 2019 2:30:15 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ce9d5d
+27 Nov 2019 2:30:15 GMT:  Kind = WARNING
+27 Nov 2019 2:30:15 GMT: Name = E:\cse221\lab\lab4\Dijkstra.java LineNo = 9 ColNo = 13 Msg = 'The value of the local variable r is not used'
+27 Nov 2019 2:37:04 GMT: diagnostics = javax.tools.DiagnosticCollector@1c55e6a
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@4fecd0
+fileObjects = [E:\cse221\lab\Dijkstra1.java, E:\cse221\lab\lab4\Dijkstra.java]
+27 Nov 2019 2:37:04 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@70ab3d' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab;E:\cse221\lab\lab4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+27 Nov 2019 2:37:04 GMT: Compiler call returned
+27 Nov 2019 2:37:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@190c38f
+27 Nov 2019 2:37:04 GMT:  Kind = WARNING
+27 Nov 2019 2:37:04 GMT: Name = E:\cse221\lab\Dijkstra1.java LineNo = 9 ColNo = 13 Msg = 'The value of the local variable r is not used'
+27 Nov 2019 2:37:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e4e92d
+27 Nov 2019 2:37:04 GMT:  Kind = WARNING
+27 Nov 2019 2:37:04 GMT: Name = E:\cse221\lab\Dijkstra1.java LineNo = 11 ColNo = 13 Msg = 'The value of the local variable weight is not used'
+27 Nov 2019 2:37:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@658e4c
+27 Nov 2019 2:37:04 GMT:  Kind = WARNING
+27 Nov 2019 2:37:04 GMT: Name = E:\cse221\lab\lab4\Dijkstra.java LineNo = 9 ColNo = 13 Msg = 'The value of the local variable r is not used'
